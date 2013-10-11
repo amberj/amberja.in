@@ -1,3 +1,7 @@
+/***********************************/
+/* CSS file for http://amberja.in/ */
+/***********************************/
+
 body {
     text-align: left;
     margin-left: 15%;
@@ -7,7 +11,9 @@ body {
 a:link {
 	color: #48a4f7;
 	background-color: transparent;
+    text-decoration: none;
 }
+
 
 #footer {
 	font-size: 0.7em;
@@ -24,10 +30,10 @@ table,th, td
 border: 1px solid black;
 }
 
-/***************************************************************************/
-/* blockquote style is modified version of "Classy Quote" style posted at: */
-/* http://css-tricks.com/examples/Blockquotes/                             */
-/***************************************************************************/
+/*******************************************************
+ * Modified version of "Classy Quote" style posted at: *
+ * http://css-tricks.com/examples/Blockquotes/         *
+ *******************************************************/
 blockquote {
   font: 14px/20px italic Times, serif;
   padding: 8px;
@@ -38,3 +44,26 @@ blockquote {
   margin: 35px;
   /*text-indent: 23px;*/
 }
+
+/*******************************************
+ * Modified version of Kyle Isom's CSS:    *
+ * http://www.kyleisom.net/style/style.css *
+ *******************************************/
+
+.label {
+    padding: 1px 3px 2px;
+    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    background-color: #999;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.label.github { background-color: #333333 }
+.label.twitter { background-color: #00BAF4 }
+.label.gplus { background-color: #DD4B39 }
+.label.linkedin { background-color: #3994C4 }
+.label.gist { background-color: #333333 }
+.label.facebook { background-color: #45619D }
