@@ -1,0 +1,40 @@
+body {
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a:link {
+	color: #48a4f7;
+	background-color: transparent;
+}
+
+#footer {
+	font-size: 0.7em;
+	color: #808080;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
+
+/***************************************************************************/
+/* blockquote style is modified version of "Classy Quote" style posted at: */
+/* http://css-tricks.com/examples/Blockquotes/                             */
+/***************************************************************************/
+blockquote {
+  font: 14px/20px italic Times, serif;
+  padding: 8px;
+  padding-left: 4%;
+  padding-right: 4%;
+  background-color: #eaeaea;
+  border-left: 5px solid #a5a5a5;
+  margin: 35px;
+  /*text-indent: 23px;*/
+}
