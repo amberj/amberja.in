@@ -61,6 +61,10 @@ blockquote {
     border-radius: 3px;
 }
 
+a.label {
+    color: #ffffff;
+}
+
 .label.github { background-color: #333333 }
 .label.twitter { background-color: #00BAF4 }
 .label.gplus { background-color: #DD4B39 }
