@@ -15,6 +15,11 @@ a:link {
 }
 
 
+a h2 {
+    margin-top:-5px;
+    margin-bottom:-2px;
+}
+
 #footer {
 	font-size: 0.7em;
 	color: #808080;
@@ -71,3 +76,55 @@ a.label {
 .label.linkedin { background-color: #3994C4 }
 .label.gist { background-color: #333333 }
 .label.facebook { background-color: #45619D }
+
+
+#navigation {
+    font-size:0.85em;
+    width:100px;
+    display: block;
+    float:left;
+}
+
+#navigation ul {
+    margin:0;
+    padding:0;
+}
+
+#navigation li {
+    list-style: none;
+}
+
+ul.top-level {
+    background:#666;
+}
+ 
+ul.top-level li {
+ border-bottom: #fff solid;
+ border-top: #fff solid;
+ border-width: 1px;
+}
+
+#navigation a {
+ color: #fff;
+ cursor: pointer;
+ display:block;
+ height:25px;
+ line-height: 25px;
+ text-indent: 10px;                   
+ text-decoration:none;
+ width:100%;
+}
+ 
+#navigation a:hover{
+ text-decoration:underline;
+}
+
+#navigation li:hover {
+ background: #48a4f7;
+ position: relative;
+}
+
+#content {
+overflow:hidden;
+padding-left: 10px;
+}
