@@ -11,7 +11,7 @@ body {
 a:link {
 	color: #48a4f7;
 	background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 
@@ -68,6 +68,7 @@ blockquote {
 
 a.label {
     color: #ffffff;
+    text-decoration:none;
 }
 
 .label.github { background-color: #333333 }
@@ -76,6 +77,7 @@ a.label {
 .label.linkedin { background-color: #3994C4 }
 .label.gist { background-color: #333333 }
 .label.facebook { background-color: #45619D }
+.label.rss { background-color: #FE5E06 }
 
 
 #navigation {
@@ -116,7 +118,7 @@ ul.top-level li {
 }
  
 #navigation a:hover{
- text-decoration:underline;
+ text-decoration:none;
 }
 
 #navigation li:hover {
@@ -126,5 +128,56 @@ ul.top-level li {
 
 #content {
 overflow:hidden;
-padding-left: 10px;
+padding-left: 14px;
+}
+
+#footer {
+	font-size: 0.8em;
+/*	font-family: Verdana;
+	margin-top: 20px;
+	margin-left: 170px;
+	margin-right: 30px;
+	text-align: center;*/
+	color: #808080;
+}
+
+/***********************************************************************
+ * blockquote style is modified version of "Classy Quote" style        *
+ * posted at:                                                          *
+ * http://css-tricks.com/examples/Blockquotes/                         *
+ **********************************************************************/
+blockquote {
+  font: 14px/20px italic Times, serif;
+  padding: 8px;
+  padding-left: 4%;
+  padding-right: 4%;
+  background-color: #eaeaea;
+  border-left: 5px solid #a5a5a5;
+  margin: 35px;
+  /*text-indent: 23px;*/
+}
+
+/* Modified version of search bar on David Cramer's blog:
+ * http://justcramer.com/
+ */
+
+.right { float: right }
+
+.search { margin-top: 1px }
+.search input[type="text"] {
+    background: url('/images/search.png') 10px center no-repeat #f2f2f2;
+    color: #999;
+    border: 1px solid #ddd;
+    font: 13px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    padding: 2px 15px 2px 35px;
+    width: 200px;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-radius: 15px;
 }
