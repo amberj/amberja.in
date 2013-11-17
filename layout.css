@@ -8,37 +8,28 @@ body {
     margin-right: 15%;
 }
 
-a:link {
-	color: #48a4f7;
-	background-color: transparent;
-    text-decoration: underline;
+#top-header {
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
-
-a h2 {
-    margin-top:-5px;
-    margin-bottom:-2px;
+#content {
+    overflow:hidden;
+    padding-left: 1.5%;
+    margin-top: 0%;
+    padding-top: 0%;
 }
 
 #footer {
-	font-size: 0.7em;
+	font-size: 0.8em;
 	color: #808080;
 }
 
-table
-{
-border-collapse:collapse;
-}
-
-table,th, td
-{
-border: 1px solid black;
-}
-
-/*******************************************************
- * Modified version of "Classy Quote" style posted at: *
- * http://css-tricks.com/examples/Blockquotes/         *
- *******************************************************/
+/***********************************************************************
+ * blockquote style is modified version of "Classy Quote" style        *
+ * posted at:                                                          *
+ * http://css-tricks.com/examples/Blockquotes/                         *
+ **********************************************************************/
 blockquote {
   font: 14px/20px italic Times, serif;
   padding: 8px;
@@ -50,39 +41,10 @@ blockquote {
   /*text-indent: 23px;*/
 }
 
-/*******************************************
- * Modified version of Kyle Isom's CSS:    *
- * http://www.kyleisom.net/style/style.css *
- *******************************************/
-
-.label {
-    padding: 1px 3px 2px;
-    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
-    font-size: 12px;
-    color: #fff;
-    background-color: #999;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-}
-
-a.label {
-    color: #ffffff;
-    text-decoration:none;
-}
-
-.label.github { background-color: #333333 }
-.label.twitter { background-color: #00BAF4 }
-.label.gplus { background-color: #DD4B39 }
-.label.linkedin { background-color: #3994C4 }
-.label.gist { background-color: #333333 }
-.label.facebook { background-color: #45619D }
-.label.rss { background-color: #FE5E06 }
-
-
+/* Navigation (side) */
 #navigation {
     font-size:0.85em;
-    width:100px;
+    width:112px;
     display: block;
     float:left;
 }
@@ -126,36 +88,34 @@ ul.top-level li {
  position: relative;
 }
 
-#content {
-overflow:hidden;
-padding-left: 14px;
+/*******************************************
+ * Modified version of Kyle Isom's CSS:    *
+ * http://www.kyleisom.net/style/style.css *
+ *******************************************/
+
+.label {
+    padding: 1px 3px 2px;
+    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    background-color: #999;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
 
-#footer {
-	font-size: 0.8em;
-/*	font-family: Verdana;
-	margin-top: 20px;
-	margin-left: 170px;
-	margin-right: 30px;
-	text-align: center;*/
-	color: #808080;
+a.label {
+    color: #ffffff;
+    text-decoration:none;
 }
 
-/***********************************************************************
- * blockquote style is modified version of "Classy Quote" style        *
- * posted at:                                                          *
- * http://css-tricks.com/examples/Blockquotes/                         *
- **********************************************************************/
-blockquote {
-  font: 14px/20px italic Times, serif;
-  padding: 8px;
-  padding-left: 4%;
-  padding-right: 4%;
-  background-color: #eaeaea;
-  border-left: 5px solid #a5a5a5;
-  margin: 35px;
-  /*text-indent: 23px;*/
-}
+.label.github { background-color: #333333 }
+.label.twitter { background-color: #00BAF4 }
+.label.gplus { background-color: #DD4B39 }
+.label.linkedin { background-color: #3994C4 }
+.label.gist { background-color: #333333 }
+.label.facebook { background-color: #45619D }
+.label.rss { background-color: #FE5E06 }
 
 /* Modified version of search bar on David Cramer's blog:
  * http://justcramer.com/
@@ -163,21 +123,46 @@ blockquote {
 
 .right { float: right }
 
-.search { margin-top: 1px }
+.search { margin-top: 1% }
 .search input[type="text"] {
     background: url('/images/search.png') 10px center no-repeat #f2f2f2;
     color: #999;
     border: 1px solid #ddd;
     font: 13px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    padding: 2px 15px 2px 35px;
-    width: 200px;
-    -webkit-transition: 0.3s;
+    padding: 2px 5px 2px 25px;
+    width: 80px;
+    /*-webkit-transition: 0.3s;
     -moz-transition: 0.3s;
     -o-transition: 0.3s;
-    transition: 0.3s;
+    transition: 0.3s;*/
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     border-radius: 15px;
+}
+
+a:link {
+	color: #48a4f7;
+	background-color: transparent;
+    text-decoration: underline;
+}
+
+a h2 {
+    margin-top:-5px;
+    margin-bottom:-2px;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
+
+h3 {
+    margin-top: 0px;
 }
