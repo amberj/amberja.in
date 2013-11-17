@@ -8,9 +8,11 @@ a:link {
     text-decoration: underline;
 }
 
-a h2 {
+a:link h2 {
+    color: #000000;
     margin-top:-5px;
     margin-bottom:-2px;
+    text-decoration:none;
 }
 
 table
@@ -150,7 +152,7 @@ a.label {
 
 .search { margin-top: 1% }
 .search input[type="text"] {
-    background: url('/images/search.png') 6px center no-repeat #f2f2f2;
+    background: url('/images/search.png') 2px center no-repeat #f2f2f2;
     color: #999;
     border: 1px solid #ddd;
     font: 13px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
@@ -165,4 +167,12 @@ a.label {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     border-radius: 15px;
+}
+
+.link-like-text {
+    color: #000000;
+}
+
+a.link-like-text {
+    text-decoration: none;
 }
