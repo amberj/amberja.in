@@ -2,6 +2,31 @@
 /* CSS file for http://amberja.in/ */
 /***********************************/
 
+a:link {
+	color: #48a4f7;
+	background-color: transparent;
+    text-decoration: underline;
+}
+
+a h2 {
+    margin-top:-5px;
+    margin-bottom:-2px;
+}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
+
+h3 {
+    margin-top: 0px;
+}
+
 body {
     text-align: left;
     margin-left: 15%;
@@ -140,29 +165,4 @@ a.label {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     border-radius: 15px;
-}
-
-a:link {
-	color: #48a4f7;
-	background-color: transparent;
-    text-decoration: underline;
-}
-
-a h2 {
-    margin-top:-5px;
-    margin-bottom:-2px;
-}
-
-table
-{
-border-collapse:collapse;
-}
-
-table,th, td
-{
-border: 1px solid black;
-}
-
-h3 {
-    margin-top: 0px;
 }
