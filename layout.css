@@ -125,11 +125,11 @@ a.label {
 
 .search { margin-top: 1% }
 .search input[type="text"] {
-    background: url('/images/search.png') 10px center no-repeat #f2f2f2;
+    background: url('/images/search.png') 6px center no-repeat #f2f2f2;
     color: #999;
     border: 1px solid #ddd;
     font: 13px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    padding: 2px 5px 2px 25px;
+    padding: 2px 5px 2px 22px;
     width: 80px;
     /*-webkit-transition: 0.3s;
     -moz-transition: 0.3s;
