@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel> 
+    <title>Amber Jain</title>
+    <link>http://amberja.in/</link>
+    <description>AmberJ's RSS feed</description>
+    <language>en-us</language>
+
+    <item><title>New website/url</title>
+        <description>My new personal website is now available at http://amberja.in/. Blog is available at http://blog.amberja.in/.</description>
+        <guid>http://amberja.in/</guid>
+        <link>http://amberja.in/</link>
+        <dc:date>2013-11-18</dc:date></item>
+
+  </channel>
+</rss>
