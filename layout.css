@@ -176,10 +176,9 @@ a.label {
     border-radius: 15px;
 }
 
-/* Hide counter from AddThis's Facebook Like button:
+/* Hide counter from AddThis's Share button:
  * http://goo.gl/FqFM0f
  */
-.addthis_button_facebook_like {
-        overflow:hidden;
-        width: 45px !important;
+.addthis_pill_style {
+width: 50px !important;
 }
