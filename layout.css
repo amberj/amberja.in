@@ -181,4 +181,5 @@ a.label {
  */
 .addthis_pill_style {
 width: 50px !important;
+max-height: 10px !important;
 }
