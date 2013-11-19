@@ -176,3 +176,10 @@ a.label {
     border-radius: 15px;
 }
 
+/* Hide counter from AddThis's Facebook Like button:
+ * http://goo.gl/FqFM0f
+ */
+.addthis_button_facebook_like {
+        overflow:hidden;
+        width: 45px !important;
+}
