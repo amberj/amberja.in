@@ -175,11 +175,3 @@ a.label {
     -o-border-radius: 15px;
     border-radius: 15px;
 }
-
-/* Hide counter from AddThis's Share button:
- * http://goo.gl/FqFM0f
- */
-.addthis_pill_style {
-width: 50px !important;
-max-height: 10px !important;
-}
