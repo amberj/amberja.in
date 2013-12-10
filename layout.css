@@ -150,6 +150,7 @@ a.label {
 .label.gist { background-color: #333333 }
 .label.facebook { background-color: #45619D }
 .label.rss { background-color: #FE5E06 }
+.label.date { background-color: #fff }
 
 /* Modified version of search bar on David Cramer's blog:
  * http://justcramer.com/
@@ -174,4 +175,9 @@ a.label {
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     border-radius: 15px;
+}
+
+/* Blog index */
+#blog-index {
+
 }
