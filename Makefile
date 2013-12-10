@@ -7,7 +7,7 @@
 # http://stackoverflow.com/a/11030209 
 
 # Input
-INPUT_MARKDOWN_FILES=$(wildcard *.markdown blog/*.markdown)
+INPUT_MARKDOWN_FILES=$(wildcard *.markdown blog/*.markdown projects/crypto/*.markdown projects/udacity-cs101/*.markdown)
 
 # Output
 OUTPUT_HTMLS=$(patsubst %.markdown,%.html, $(INPUT_MARKDOWN_FILES))
