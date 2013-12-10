@@ -3,8 +3,6 @@
 * My Resume: 
 [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
 *   My [LinkedIn](http://www.linkedin.com/in/amberjain) profile.
-*   List of my [projects](http://amberj.devio.us/projects.html) and 
-[publications](http://amberj.devio.us/pubs.html).
 
 #### Internship
 * Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg) | [GoogleDrive](https://docs.google.com/open?id=0B6D_aYA5-CfnMjhlaGl2eEdYbW8)
@@ -22,7 +20,7 @@
     <tr>
         <td>Coursera</td>
         <td><a href="https://www.coursera.org/course/gamification">Gamification</a></td>
-        <td>98% (<a href="https://www.coursera.org/signature/">Signature Track Verified</a>)</td>
+        <td>98% (<a href="https://www.coursera.org/verify/KQW3GPF6GH">Signature Track Verified</a>)</td>
         <td><a href="./files/certificates/amberj-gamification-certificate.pdf">PDF</a></td>
     </tr>
 
@@ -78,7 +76,7 @@
     <tr>
         <td>Coursera</td>
         <td><a href="https://www.coursera.org/course/modelthinking">Model Thinking</a></td>
-        <td>91.1% (<a href="https://www.coursera.org/signature/">Signature Track Verified</a>)</td>
+        <td>91.1% (<a href="https://www.coursera.org/verify/VZAUXDF8PU">Signature Track Verified</a>)</td>
         <td><a href="./files/certificates/amberj-model-thinking-certificate.pdf">PDF</a></td>
     </tr>
 
