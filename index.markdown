@@ -1,7 +1,7 @@
 ### Welcome to my homepage on web
 
 #### About
-I'm Amber Jain. I live in [Indore](http://en.wikipedia.org/wiki/Indore), [India](http://en.wikipedia.org/wiki/India). I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
+I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
 
 #### Profile
 <table width="96%" align="center" cellpadding="5">
