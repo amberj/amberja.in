@@ -5,7 +5,7 @@
 *   My [LinkedIn](http://www.linkedin.com/in/amberjain) profile.
 
 #### Internship
-* Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg) | [GoogleDrive](https://docs.google.com/open?id=0B6D_aYA5-CfnMjhlaGl2eEdYbW8)
+* Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg)
 
 #### Online courses
 
