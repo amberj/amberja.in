@@ -2,3 +2,4 @@
 .DS_Store
 .vagrant
 *.temp
+*.html
