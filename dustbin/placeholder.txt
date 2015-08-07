@@ -1,0 +1,1 @@
+A placeholder file to be able to include this directory in git. Use this folder to dump all files manually on server.
