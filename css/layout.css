@@ -1,0 +1,33 @@
+/***********************************/
+/* CSS file for http://amberja.in/ */
+/***********************************/
+
+/*******************************************
+ * Modified version of Kyle Isom's CSS:    *
+ * http://www.kyleisom.net/style/style.css *
+ *******************************************/
+
+.label {
+    padding: 1px 3px 2px;
+    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-size: 12px;
+    color: #fff;
+    background-color: #999;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+a.label {
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.label.github { background-color: #333333 }
+.label.twitter { background-color: #00BAF4 }
+.label.gplus { background-color: #DD4B39 }
+.label.linkedin { background-color: #3994C4 }
+.label.gist { background-color: #333333 }
+.label.facebook { background-color: #45619D }
+.label.rss { background-color: #FE5E06 }
+.label.date { background-color: #666666 }
