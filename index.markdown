@@ -1,5 +1,7 @@
 ## <a name="about"></a>About
-I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
+I'm Amber Jain. I live in [Mumbai](https://en.wikipedia.org/wiki/Mumbai), [India](http://en.wikipedia.org/wiki/India). 
+
+I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
 
 ## <a name="profile"></a>Profile
 <table width="96%" align="center" cellpadding="5">
@@ -25,32 +27,22 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 
     <tr>
     <th>Postal address:</th>
-    <td>Available upon request (by <a href="/contact.html">email</a>)</td>
+    <td>Available upon request (by <a href="http://amberja.in/#contact">email</a>)</td>
     </tr>
 
     <tr>
-    <th>Current city:</th>
-    <td>Indore</td>
-    </tr>
-
-    <tr>
-    <th>Current country:</th>
-    <td>India</td>
+    <th>Current location:</th>
+    <td>Mumbai, Maharashtra (India)</td>
     </tr>
 
     <tr>
     <th>Contact:</th>
-    <td><a href="/contact.html">Email</a></td>
+    <td><a href="http://amberja.in/#contact">Email</a></td>
     </tr>
 
     <tr>
     <th>Languages:</th>
     <td>English, Hindi</td>
-    </tr>
-
-    <tr>
-    <th>Relationship status:</th>
-    <td>Single</td>
     </tr>
 
     <tr>
