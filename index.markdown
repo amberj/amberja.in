@@ -67,9 +67,8 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 
 ## Résumé/Vitae<a name="resume></a>
 
-* My Resume: 
-[PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
-*   My [LinkedIn](http://www.linkedin.com/in/amberjain) profile.
+* My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
+* My LinkedIn: [URL]](http://www.linkedin.com/in/amberjain)
 
 ### Internship
 * Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg)
