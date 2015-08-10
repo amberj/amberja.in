@@ -65,7 +65,7 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 
 </table>
 
-## Résumé/Vitae<a name="resume></a>
+## Résumé/Vitae<a name="resume"></a>
 
 * My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
 * My LinkedIn: [URL]](http://www.linkedin.com/in/amberjain)
@@ -189,7 +189,7 @@ by Prof. David Evans of University of Virginia).
 2. [https://sites.google.com/site/aiclass2011archive/](https://sites.google.com/site/aiclass2011archive/): Content mirror (website) for 
 [Intro to Artificial Intelligence](http://www.udacity.com/) course.
 
-## Publications<a name="publications"></a>
+## <a name="publications"></a>Publications
 
 ### Articles
 
@@ -217,7 +217,7 @@ by Prof. David Evans of University of Virginia).
 
 * [Notes on Model Thinking](https://github.com/amberj/modelthinking-notes) (Work in progress).
 
-## Contact<a name="contact"></a>
+## <a name="contact">Contact</a>
 
 * Email:
 i.am<a 
