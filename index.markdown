@@ -1,7 +1,7 @@
-## About
+## <a name="about"></a>About
 I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
 
-## Profile<a name="profile"></a>
+## <a name="profile"></a>Profile
 <table width="96%" align="center" cellpadding="5">
     <tr>
     <th>Name:</th>
@@ -65,7 +65,7 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 
 </table>
 
-## Résumé/Vitae<a name="resume"></a>
+## <a name="resume"></a>Résumé/Vitae
 
 * My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
 * My LinkedIn: [URL](http://www.linkedin.com/in/amberjain)
@@ -156,7 +156,7 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 
 <br />
 
-## Projects<a name="projects"></a>
+## <a name="projects"></a>Projects
 
 ### Profiles
 
@@ -217,8 +217,7 @@ by Prof. David Evans of University of Virginia).
 
 * [Notes on Model Thinking](https://github.com/amberj/modelthinking-notes) (Work in progress).
 
-## <a name="contact"></a>
-## Contact
+## <a name="contact"></a>Contact
 
 * Email:
 i.am<a 
