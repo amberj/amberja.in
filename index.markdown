@@ -68,7 +68,7 @@ I'm Amber Jain. I live in [India](http://en.wikipedia.org/wiki/India). I receive
 ## Résumé/Vitae<a name="resume"></a>
 
 * My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
-* My LinkedIn: [URL]](http://www.linkedin.com/in/amberjain)
+* My LinkedIn: [URL](http://www.linkedin.com/in/amberjain)
 
 ### Internship
 * Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg)
@@ -217,7 +217,8 @@ by Prof. David Evans of University of Virginia).
 
 * [Notes on Model Thinking](https://github.com/amberj/modelthinking-notes) (Work in progress).
 
-## <a name="contact">Contact</a>
+## <a name="contact"></a>
+## Contact
 
 * Email:
 i.am<a 
