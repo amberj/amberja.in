@@ -31,7 +31,19 @@
                                 <span class="glyphicon glyphicon-tags" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                Python, Django, Flask, PostgreSQL, Redis, Ubuntu/Linux, AWS, DigitalOcean, Bootstrap, HTML, CSS, C, Matlab/Octave
+                                <span class="label label-default">Python</span>
+                                <span class="label label-default">Django</span>
+                                <span class="label label-default">Flask</span>
+                                <span class="label label-default">PostgreSQL</span>
+                                <span class="label label-default">Redis</span>
+                                <span class="label label-default">Ubuntu/Linux</span>
+                                <span class="label label-default">AWS</span>
+                                <span class="label label-default">DigitalOcean</span>
+                                <span class="label label-default">Bootstrap</span>
+                                <span class="label label-default">HTML</span>
+                                <span class="label label-default">CSS</span>
+                                <span class="label label-default">C</span>
+                                <span class="label label-default">Matlab/Octave</span>
                             </div>
                         </div>
                         <div class="row">
@@ -51,11 +63,43 @@
 
 ## <a name="resume"></a>Résumé/Vitae
 
-* My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
-* My LinkedIn: [URL](http://www.linkedin.com/in/amberjain)
+<div class="panel panel-default">
+    <table class="table">
+      <tr>
+        <td>My Resume: <a href="https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf">PDF</a></td>
+      </tr>
+    </table>
+</div>
 
-#### Internship
-* Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg)
+<div class="panel panel-default">
+  <div class="panel-heading">Work experience</div>
+    <table class="table">
+      <tr>
+        <th>Company</th>
+        <th>Job description</th>
+        <th>Location</th>
+        <th>Duration</th>
+      </tr>
+      <tr>
+        <td><a href="http://www.taskbob.com/">Taskbob</a></td>
+        <td>DevOps, Backend, Growth</td>
+        <td>Mumbai</td>
+        <td>Apr 2015 - now</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.tinyowl.com/">Tinyowl</a></td>
+        <td>DevOps Engineer</td>
+        <td>Mumbai</td>
+        <td>Jan 2014 - Nov 2014</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code</a></td>
+        <td>Build Engineer for <a href="http://opencog.org/">OpenCog Foundation</a> (<a href="./files/certificates/amberj-google-summer-of-code-certificate.jpg">Certificate</a>)</td>
+        <td>Remote</td>
+        <td>Jun 2012 - Sept 2012</td>
+      </tr>
+    </table>
+</div>
 
 <div class="panel panel-default">
   <div class="panel-heading">Online courses</div>
@@ -141,11 +185,11 @@
 
 ## <a name="projects"></a>Projects
 
-### Profiles
+#### Profiles
 
 * My [Github](https://github.com/amberj), [github:gists](https://gist.github.com/amberj) and [Bitbucket](https://bitbucket.org/amberj) profiles.
 
-### Other projects:
+#### Other projects:
 
 1. **[mooc-posters.in](http://mooc-posters.in/)**:
 <br />Full stack development of Python/Django website to generate printable PDF posters for online courses from Coursera, Udacity, edX etc. Technology stack includes <a href="http://www.python.org/">Python 2.7</a>, <a href="https://www.djangoproject.com/">Django 1.6</a>, <a href="http://www.reportlab.com/software/opensource/">ReportLab</a>, <a href="https://github.com/lincolnloop/python-qrcode">qrcode</a>, <a href="http://getbootstrap.com/">Twitter Bootstrap</a>, <a href="http://nginx.org/">Nginx</a>, <a href="http://gunicorn.org/">Gunicorn</a>, <a href="http://www.ubuntu.com/">Ubuntu 12.04 Linux</a>, <a href="http://git-scm.com/">Git</a>/<a href="https://github.com/">GitHub</a> and <a href="http://fabfile.org/">Fabric</a>. 
@@ -164,7 +208,7 @@ by Prof. David Evans of University of Virginia).
 5. **[Investigation of Symmetric Block Cipher Algorithms](./projects/crypto/)**:
 <br />My 8th semester academic project in which I investigated symmetric cryptographic algorithms.
 
-### Other contributions:
+#### Other contributions:
 
 1. [https://sites.google.com/site/udacitymirror/](https://sites.google.com/site/udacitymirror/): Content mirror (website) for some 
 [Udacity](http://www.udacity.com/) courses. 
@@ -172,9 +216,7 @@ by Prof. David Evans of University of Virginia).
 2. [https://sites.google.com/site/aiclass2011archive/](https://sites.google.com/site/aiclass2011archive/): Content mirror (website) for 
 [Intro to Artificial Intelligence](http://www.udacity.com/) course.
 
-## <a name="publications"></a>Publications
-
-### Articles
+## <a name="articles"></a>Articles
 
 * **Windows Autorun FAQs**: A four part article (published in January 2009) about autoruns and autostart location in Windows operating systems in Frequently Asked Questions (FAQs) format:
 
@@ -196,51 +238,10 @@ by Prof. David Evans of University of Virginia).
 
     My special thanks to experts at [http://bytes.com/](http://bytes.com/) for their suggestions and help with final editing, grammar and layout of this article series.
 
-### Book
-
-* [Notes on Model Thinking](https://github.com/amberj/modelthinking-notes) (Work in progress).
-
 ## <a name="contact"></a>Contact
 
-* Email:
-i.am<a 
-href="http://www.google.com/recaptcha/mailhide/d?k=016J0LWoLhuUWjSFyClRknwA==&amp;c=bKhfTECBumUMsIMIalr5_sLcX9n9SJxEsLTnLatdEK4=" 
-onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075016J0LWoLhuUWjSFyClRknwA\75\75\46c\75bKhfTECBumUMsIMIalr5_sLcX9n9SJxEsLTnLatdEK4\075', '', 
-'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail 
-address">...</a>@gmail.com
+* Email: *<a href="http://www.google.com/recaptcha/mailhide/d?k=01ZgYltAPzKumh-tdv0N8wng==&amp;c=eHBDg0zMgtifi9w3TX5dGHcVPdoq-xPBa_92NkmKC1M=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZgYltAPzKumh-tdv0N8wng\75\75\46c\75eHBDg0zMgtifi9w3TX5dGHcVPdoq-xPBa_92NkmKC1M\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">i...</a>@gmail.com*
 
-* Github: [amberj](https://github.com/amberj)
+* Skype: *jain.amber*
 
 * IRC: *AmberJ* (on _irc.freenode.net_ and _irc.oftc.net_).
-
-* Twitter: [jain_amber](https://twitter.com/jain_amber)
-
-* LinkedIn: [amberjain](http://www.linkedin.com/in/amberjain)
-
-* Google+: [+AmberJain](https://plus.google.com/+AmberJain)
-
-* Facebook: [amber.jain](http://www.facebook.com/amber.jain)
-
-* Launchpad: [i-amber-jain](https://launchpad.net/~i-amber-jain)
-
-* Google Code: [i.amber.jain](http://code.google.com/u/i.amber.jain/) and [ithinkminus](https://code.google.com/u/ithinkminus/)
-
-* Sourceforge: [amberj](https://sourceforge.net/users/amberj) and [ambr](https://sourceforge.net/users/ambr)
-
-* Codepad: [amberj](http://codepad.org/users/amberj)
-
-* Bitbucket: [amberj](https://bitbucket.org/amberj)
-
-* Wikipedia: [JainAmber](http://en.wikipedia.org/wiki/User:JainAmber) ([contribs](http://en.wikipedia.org/wiki/Special:Contributions/JainAmber))
-
-* Social networking: [identi.ca](http://identi.ca/amberj) and [status.net](https://amber.status.net/). 
-
-* Picasa Web Albums: [i.amber.jain](http://picasaweb.google.com/i.amber.jain)
-
-* Research Without Walls: [Open access pledge](http://www.researchwithoutwalls.org/457).
-
-* Ohloh: [AmberJ](https://www.ohloh.net/accounts/AmberJ)
-
-* bytes.com: [AmberJain](http://bytes.com/amberjain)
-
-* Et cetera.
