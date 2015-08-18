@@ -17,6 +17,6 @@ OUTPUT_HTMLS=$(patsubst %.markdown,%.html, $(INPUT_MARKDOWN_FILES))
 all : $(OUTPUT_HTMLS)
 
 %.html : %.markdown .
-	cat site-templates/start_html.html >> $@
+	cat site-templates/start_html.html > $@
 	perl Markdown.pl $< >> $@
 	cat site-templates/end_html.html >> $@
