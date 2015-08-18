@@ -1,73 +1,65 @@
-## <a name="about"></a>About
-I'm Amber Jain. I live in [Mumbai](https://en.wikipedia.org/wiki/Mumbai), [India](http://en.wikipedia.org/wiki/India). 
+## <a name="about"></a>
 
-I received my [Master's degree in Computer Applications](http://en.wikipedia.org/wiki/Master_of_Computer_Applications) from [International Institute of Professional Studies](http://www.iips.edu.in/), [Devi Ahilya University](http://www.dauniv.ac.in/) in 2013. I was a [Google Summer of Code 2012](http://www.google-melange.com/) intern for [OpenCog Foundation](http://opencog.org/). I'm actively looking for job/internship oppurtunities.
-
-## <a name="profile"></a>Profile
-<table width="96%" align="center" cellpadding="5">
-    <tr>
-    <th>Name:</th>
-    <td>Amber Jain</td>
-    </tr>
-
-    <tr>
-    <th>Gender:</th>
-    <td>Male</td>
-    </tr>
-
-    <tr>
-    <th>Date of birth:</th>
-    <td>December 14, 1989</td>
-    </tr>
-
-    <tr>
-    <th>Nationality:</th>
-    <td>Indian</td>
-    </tr>
-
-    <tr>
-    <th>Postal address:</th>
-    <td>Available upon request (by <a href="http://amberja.in/#contact">email</a>)</td>
-    </tr>
-
-    <tr>
-    <th>Current location:</th>
-    <td>Mumbai, Maharashtra (India)</td>
-    </tr>
-
-    <tr>
-    <th>Contact:</th>
-    <td><a href="http://amberja.in/#contact">Email</a></td>
-    </tr>
-
-    <tr>
-    <th>Languages:</th>
-    <td>English, Hindi</td>
-    </tr>
-
-    <tr>
-    <th>Religion:</th>
-    <td>Jainism</td>
-    </tr>
-
-    <tr>
-    <th>Blood group:</th>
-    <td>AB-</td>
-    </tr>
-
-</table>
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="panel panel-info">
+            <div class="panel-body">
+                <div class="media">
+                    <div class="media-left">
+                        <a href="#"><img class="media-object" src="/images/amber-jain.jpg" alt="Amber Jain" width="150" height="180"></a>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="media-heading">Amber Jain</h2>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span>
+                            </div>
+                            <div class="col-md-11">
+                                Backend &amp; DevOps engineer
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>
+                            </div>
+                            <div class="col-md-11">
+                                25 | <a href="http://in.taskbob.com/">@taskbob</a> | ex-<a href="http://tinyowl.com/">@tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <span class="glyphicon glyphicon-tags" aria-hidden="true"></span>
+                            </div>
+                            <div class="col-md-11">
+                                Python, Django, Flask, PostgreSQL, Redis, Ubuntu/Linux, AWS, DigitalOcean, Bootstrap, HTML, CSS, C, Matlab/Octave
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                            </div>
+                            <div class="col-md-11">
+                                Mumbai, India
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## <a name="resume"></a>Résumé/Vitae
 
 * My Resume: [PDF](https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf)
 * My LinkedIn: [URL](http://www.linkedin.com/in/amberjain)
 
-### Internship
+#### Internship
 * Google Summer of Code 2012 certificate: [JPG](./files/certificates/amberj-google-summer-of-code-certificate.jpg)
 
-### Online courses
-
-<table width="96%" align="center">
+<div class="panel panel-default">
+  <div class="panel-heading">Online courses</div>
+<table class="table">
     <tr>
         <th>Course provider</th>
         <th>Course name</th>
@@ -145,14 +137,13 @@ I received my [Master's degree in Computer Applications](http://en.wikipedia.org
         <td><a href="./files/certificates/amberj-writing-in-the-sciences-certificate.pdf">PDF</a></td>
     </tr>
 </table>
-
-<br />
+</div>
 
 ## <a name="projects"></a>Projects
 
 ### Profiles
 
-* My [Github](https://github.com/amberj), [github:gists](https://gist.github.com/amberj), [Google Code](http://code.google.com/u/100870687320311731094/) and [Bitbucket](https://bitbucket.org/amberj) profiles.
+* My [Github](https://github.com/amberj), [github:gists](https://gist.github.com/amberj) and [Bitbucket](https://bitbucket.org/amberj) profiles.
 
 ### Other projects:
 

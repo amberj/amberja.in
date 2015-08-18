@@ -1,6 +1,9 @@
 ### Weblog
 
-Note: My older blogs are at [http://amber-jain.blogspot.com/](http://amber-jain.blogspot.com/) and [http://thinkminus.wordpress.com/](http://thinkminus.wordpress.com/).
+#### My other blogs:
+1. [Blunders in Design of Everyday Things]()
+2. [My blog on Blogspot.com](http://amber-jain.blogspot.com/) (Inactive)
+3. [My first blog on Wordpress.com](http://thinkminus.wordpress.com/) (Inactive)
 
 <div id="blog-index">
 
