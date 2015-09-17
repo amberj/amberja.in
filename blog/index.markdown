@@ -7,6 +7,11 @@
     </p>
     <h4>
       <p>
+        <span class="label label-default">2015.09.17</span>
+        <span><a href="./startup-docs.html">Startup documents</a></span>
+      </p>
+      
+      <p>
         <span class="label label-default">2015.09.16</span>
         <span><a href="./dinOSaurs.html">What has dinosaurs got to do with Operating Systems?</a></span>
       </p>
