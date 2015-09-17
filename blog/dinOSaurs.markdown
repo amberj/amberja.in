@@ -1,5 +1,4 @@
 <h2>What has dinosaurs got to do with Operating Systems?</h2>
-<div class="addthis_sharing_toolbox"></div>
 
 **Note**: I sent this email to my college devs mailing list on November 4, 2012. I just bumped into it and thought of publishing it (with some minor grammar edits).
 
