@@ -7,17 +7,25 @@
     </p>
     <h4>
       <p>
+        <span class="label label-default">2015.09.16</span>
+        <span><a href="./dinOSaurs.html">What has dinosaurs got to do with Operating Systems?</a></span>
+      </p>
+      
+      <p>
         <span class="label label-default">2013.01.06</span>
         <span><a href="./peopleware.html">Book: Peopleware</a></span>
       </p>
+      
       <p>
         <span class="label label-default">2012.12.23</span>
         <span><a href="./job-internship-resumes-interview.html">Job, Internship, Resume, Interviews etc</a></span>
       </p>
+      
       <p>
         <span class="label label-default">2012.12.18</span>
         <span><a href="./gsoc.html">Google Summer of Code</a></span>
       </p>
+      
       <p>
         <span class="label label-default">2012.12.17</span>
         <span><a href="./online-learning-initiatives.html">Online learning initiatives</a></span>
@@ -31,5 +39,5 @@
       <a href="http://amber-jain.blogspot.com/" class="list-group-item">amber-jain.blogspot.com (Old) <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
       <a href="http://thinkminus.wordpress.com/" class="list-group-item">thinkminus.wordpress.com (Old) <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
     </div>
-  </div><!--/.sidebar-offcanvas-->
-</div><!--/row-->
+  </div><!-- /.sidebar-offcanvas -->
+</div><!-- /row -->
