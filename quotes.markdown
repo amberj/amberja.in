@@ -10,6 +10,10 @@
 
 <blockquote>"When students cheat on exams, it's because our school system values grades more than student values learning." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
 
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
+
 ### Life
 
 <blockquote>"Run from what’s comfortable. Forget safety. Live where you fear to live. Destroy your reputation. Be notorious." <i><b>- Rumi</b></i></blockquote>
@@ -31,6 +35,12 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>I have been accused of a habit of changing my opinions. <i><b>- Bertrand Russell</b></i></blockquote>
 
+<blockquote>"There are three things which are real: God, human folly, and laughter. Since the first two pass our comprehension, we must do what we can with the third." <i><b>- Aubrey Menen</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
+
 ### Startups
 
 <blockquote>"Without profits, you may pretend it is in your hands but it is not. Your destiny is controlled by your ability to constantly raise money. Because somebody has to fund the losses, right? Losses don’t get funded by miracles." <i><b>- Kothandaraman Vaitheeswaran</b></i></blockquote>
@@ -49,9 +59,17 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on." <i><b>- Sheryl Sandberg</b></i></blockquote>
 
-<blockquote>>"Running a start-up is like eating glass. You just start to like the taste of your own blood." <i><b>- Sean Parker</b></i></blockquote>
+<blockquote>"Running a start-up is like eating glass. You just start to like the taste of your own blood." <i><b>- Sean Parker</b></i></blockquote>
 
 <blockquote>"Being an entrepreneur is like eating glass and staring into the abyss of death.. So if that sounds appealing..." <i><b>- Elon Musk</b></i></blockquote>
+
+<blockquote>"You're not solving the problem. You're not even looking at the problem." <i><b>- Moneyball (2011)</b></i></blockquote>
+
+<blockquote>"First step in solving any problem is recognizing there is one." <i><b>- Newsroom S01E01</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
 
 ### Hiring
 
@@ -68,6 +86,12 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 
 <blockquote>"There’s nothing wrong with staying small. You can do big things with a small team." <i><b>- Jason Fried</b></i></blockquote>
 
+<blockquote>"Make your team feel respected, empowered and genuinely excited about the company’s mission." <i><b>- Tim Westergren</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
+
 ### Productivity/Work/Culture
 
 <blockquote>"I love deadlines. I like the whooshing sound they make as they fly by." <i><b>- Douglas Adams</b></i></blockquote>
@@ -75,6 +99,10 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 <blockquote>"Make something people want includes making a company that people want to work for." <i><b>- Sahil Lavingia</b></i></blockquote>
 
 <blockquote>"Our job, the reason we have time to read blogs at work or go to conferences or write memos is that our organization believes that just maybe, we'll find and share a new idea, or maybe (continuing a run on sentence) we'll invent something important, find a resource or connect with a key customer in a way that matters." <i><b>- Seth Godin</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
 
 ### Design
 
@@ -84,11 +112,19 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 
 <blockquote>"Why can't we take robotics at Carnegie Mellon, linear algebra at MIT, law at Stanford? And why can't we put 130 of those together and make it a degree?" <i><b>- Professor David Wiley</b></i></blockquote>
 
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
+
 ### Programming
 
 <blockquote>"We reject: kings, presidents and voting. We believe in: rough consensus and running code." <i><b>- David Clark (in IETF meetings)</b></i></blockquote>
 
 <blockquote>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." <i><b>- Linus Torvalds</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
 
 ### Growth Hacking/Marketing
 
@@ -99,3 +135,7 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 <blockquote>"Be undeniably good. No marketing effort or social media buzzword can be a substitute for that." <i><b>- Anthony Volodkin</b></i></blockquote>
 
 <blockquote>"No growth hack, brilliant marketing idea, or sales team can save you long-term if you don’t have a sufficiently good product." <i><b>- Sam Altman</b></i></blockquote>
+
+<!--
+<blockquote>"" <i><b>- </b></i></blockquote>
+-->
