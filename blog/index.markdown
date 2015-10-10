@@ -8,14 +8,9 @@
     <h4>
       <p>
         <span class="label label-default">2015.10.11</span>
-        <span><a href="./startup-docs.html">403 Forbidden in Nginx on Mac OSX</a></span>
+        <span><a href="./nginx-403-forbidden-mac.html">403 Forbidden in Nginx on Mac OSX</a></span>
       </p>
 
-      <p>
-        <span class="label label-default">2015.09.17</span>
-        <span><a href="./startup-docs.html">Startup documents</a></span>
-      </p>
-      
       <p>
         <span class="label label-default">2015.09.16</span>
         <span><a href="./dinOSaurs.html">What has dinosaurs got to do with Operating Systems?</a></span>
