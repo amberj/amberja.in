@@ -27,6 +27,8 @@ You are going to work the rest of your lives, so don't be in a rush to start. St
 Delay, as long as possible, the inevitable entry into the workplace and a lifetime of servitude to bozos who know less than you do, but who make more money. Why rush?
 And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blockquote>
 
+<blockquote>"Today is the first day of the rest of your life." <i><b>- Charles Dederich</b></i></blockquote>
+
 <blockquote>"The two most important days in your life are the day you are born and the day you find out why." <i><b>- Mark Twain</b></i></blockquote>
 
 <blockquote>"Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful, that’s what matters to me." <i><b>- Steve Jobs</b></i></blockquote>
@@ -36,6 +38,8 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 <blockquote>I have been accused of a habit of changing my opinions. <i><b>- Bertrand Russell</b></i></blockquote>
 
 <blockquote>"There are three things which are real: God, human folly, and laughter. Since the first two pass our comprehension, we must do what we can with the third." <i><b>- Aubrey Menen</b></i></blockquote>
+
+<blockquote>"Do not go gentle into that good night, Old age should burn and rave at close of day." <i><b>- Interstellar (movie)</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
@@ -100,6 +104,8 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 
 <blockquote>"Our job, the reason we have time to read blogs at work or go to conferences or write memos is that our organization believes that just maybe, we'll find and share a new idea, or maybe (continuing a run on sentence) we'll invent something important, find a resource or connect with a key customer in a way that matters." <i><b>- Seth Godin</b></i></blockquote>
 
+<blockquote>"Work expands so as to fill the time available for its completion." <i><b>- Parkinson's law</b></i></blockquote>
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
@@ -121,6 +127,20 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 <blockquote>"We reject: kings, presidents and voting. We believe in: rough consensus and running code." <i><b>- David Clark (in IETF meetings)</b></i></blockquote>
 
 <blockquote>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." <i><b>- Linus Torvalds</b></i></blockquote>
+
+<blockquote>"It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter." <i><b>- Nathaniel S. Borenstein</b></i></blockquote>
+
+<blockquote>"Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?' Improve the code and then document it to make it even clearer." <i><b>- Steve McConnell (Code Complete)</b></i></blockquote>
+
+<blockquote>"Programs must be written for people to read, and only incidentally for machines to execute." <i><b>- Harold Abelson & Gerald Jay Sussman (The Structure and Interpretation of Computer Programs)</b></i></blockquote>
+
+<blockquote>"Given enough eyeballs, all bugs are shallow" <i><b>- Eric Raymond (named in honor of Linus Torvalds in the book The Cathedral and the Bazaar)</b></i></blockquote>
+
+<blockquote>"Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." <i><b>- Zawinski's law of software envelopment</b></i></blockquote>
+
+<blockquote>"Software gets slower faster than hardware gets faster." <i><b>- Wirth's law</b></i></blockquote>
+
+<blockquote>"There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies." <i><b>- C. A. R. Hoare </b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
