@@ -11,7 +11,7 @@ In this case, many people suggested doing `chmod -R ugo+x` on `root` directory (
 Another solution suggested on Google suggest fixing the following line in your `nginx.conf` according to your system user configuration:
 <pre>user  www-data;</pre>
 
-But none of these worked for me. Then I read on some forum that one needs to do `chmod -R ugo+x` for all parent directories (of `root` directory in nginx config) up until the Mac's root directory. In my case, I had put the static html file at `/Users/amberj/Dropbox/projects/amberja.in` and I didnt had `o+x` permissions on `/Users/amberj/Dropbox/` directory. Bingo!
+But none of these worked for me. Then I read on some forum that one needs to do `chmod -R ugo+x` for all parent directories (of document root in nginx config) up until the Mac's root directory. In my case, I had put the static html file at `/Users/amberj/Dropbox/projects/amberja.in` and I didnt had `o+x` permissions on `/Users/amberj/Dropbox/` directory. Bingo!
 
 So, I checked that all of the following directories:
 
@@ -22,3 +22,5 @@ So, I checked that all of the following directories:
 * `/Users/amberj/Dropbox/projects/amberja.in`
 
 had `o+x` permissions and used `chmod o+x` on those directories which didnt had this permission. Then when I reloaded [http://localhost:8080/](http://localhost:8080/), tada! There it was.. my sweet little index.html page.
+
+**Thanks** to [Pawan Rawal](https://www.linkedin.com/in/pawanrawal1) for proofreading draft of this post.
