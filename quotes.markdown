@@ -10,6 +10,8 @@
 
 <blockquote>"When students cheat on exams, it's because our school system values grades more than student values learning." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
 
+<blockquote>"Most certifications prove only one thing. They prove that you used to have $500." <i><b>- Alex Gantman</b></i></blockquote>
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
@@ -40,6 +42,8 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 <blockquote>"There are three things which are real: God, human folly, and laughter. Since the first two pass our comprehension, we must do what we can with the third." <i><b>- Aubrey Menen</b></i></blockquote>
 
 <blockquote>"Do not go gentle into that good night, Old age should burn and rave at close of day." <i><b>- Interstellar (movie)</b></i></blockquote>
+
+<blockquote>"I learned long ago, never to wrestle with a pig. You get dirty, and besides, the pig likes it." <i><b>- George Bernard Shaw</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
