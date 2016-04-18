@@ -15,7 +15,7 @@
                                 <span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                Backend &amp; DevOps engineer
+                                Backend, DevOps &amp; Growth
                             </div>
                         </div>
                         <div class="row">
@@ -23,7 +23,7 @@
                                 <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                25 | <a href="http://in.taskbob.com/">@taskbob</a> | ex-<a href="http://tinyowl.com/">@tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
+                                25 | ex-<a href="http://in.taskbob.com/">@taskbob</a> | ex-<a href="http://tinyowl.com/">@tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
                             </div>
                         </div>
                         <div class="row">
