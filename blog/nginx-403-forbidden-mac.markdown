@@ -23,4 +23,4 @@ So, I checked that all of the following directories:
 
 had `o+x` permissions and used `chmod o+x` on those directories which didnt had this permission. Then when I reloaded [http://localhost:8080/](http://localhost:8080/), tada! There it was.. my sweet little index.html page.
 
-**Thanks** to [Pawan Rawal](https://www.linkedin.com/in/pawanrawal1) for proofreading draft of this post.
+**Thanks** to [Pawan Rawal](https://www.linkedin.com/in/pawanrawal1) for reading early draft of this post.
