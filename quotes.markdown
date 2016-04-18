@@ -75,6 +75,11 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"First step in solving any problem is recognizing there is one." <i><b>- Newsroom S01E01</b></i></blockquote>
 
+<blockquote>"You have a problem, so you decide to raise some money.
+Now you have two problems.
+So you hire some people.
+Now you have three problems." <i><b>- Sam Altman</b></i></blockquote>
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
