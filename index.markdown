@@ -6,7 +6,7 @@
             <div class="panel-body">
                 <div class="media">
                     <div class="media-left">
-                        <a href="#"><img class="media-object" src="/images/amber-jain.jpg" alt="Amber Jain" width="150" height="180"></a>
+                        <a href="#"><img class="media-object" src="/images/amber-jain-1.jpg" alt="Amber Jain" width="150" height="180"></a>
                     </div>
                     <div class="media-body">
                         <h2 class="media-heading">Amber Jain</h2>
