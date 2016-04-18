@@ -1,6 +1,6 @@
-## Lessons from Tomorrowland (movie)
+## Startup, Education, Innovation & Hiring Lessons from Tomorrowland (movie)
 
-I recently watched [Tomorrowland: A World Beyond](http://www.imdb.com/title/tt1964418/) (2015 movie) and even though it is yet another science fiction movie, plus it performed below expectations at box office, I found many parts in the movie interesting.
+I watched [Tomorrowland: A World Beyond](http://www.imdb.com/title/tt1964418/) (2015 movie) in Oct 2015 and even though it is yet another science fiction movie (plus it performed below expectations at box office), I found hidden insights related to startups, funding, hiring, education, innovation etc. in the movie.
 
 ### Scene: At 3:23 minutes in the movie, a kid, Francis Walker, opening his bag containing a jet pack at New York's World Fair in 1964 in front of another kid Athena.
 
@@ -29,15 +29,15 @@ In other words, entrepreneurs get tired of waiting around for someone else to <i
   </div>
 </div>
 
-<h3>Scene: At 20:57 minutes in the movie, when a teen Kate is talking to his kid brother Casey</h3>
+<h3>Scene: At 20:57 minutes in the movie, when a kid Nate is talking to his teen sister Casey</h3>
 
 <blockquote>
 <b>Nate:</b> Why are they taking the platform down [i.e. NASA'a decommisoned launchpad in Cape Canaveral in the movie] ?<br />
 <b>Casey:</b> Because it's hard to have ideas and easy to give up.</blockquote>
 
-But what if the things around us are the exact opposite of this? That is, what if it's easy to have ideas and no reason to give up. Well, that is the exact case right now with the bubble in the Indian (and maybe SV) startup ecosystem. These days every self-proclaimed entrepreneur seems to have the next world domination idea and combine that with <a href="https://en.wikipedia.org/wiki/Irrational_exuberance"><i>irrational exuberance</i></a> in startup valuations and funding. This feels more like <b>Disruptive Stagnation</b> (as opposed to Clayton Christensen's <b><a href="http://www.claytonchristensen.com/key-concepts/">Disruptive Innovation</a></b>).
+But what if the things around us are the exact opposite of this? That is, what if it's easy to have ideas and no reason to give up. Well, that is the exact case as of this writing (Oct 2015) with the bubble in the Indian (and maybe Silicon Valley) startup ecosystem. These days every self-proclaimed entrepreneur seems to have the next world domination idea and combine that with <a href="https://en.wikipedia.org/wiki/Irrational_exuberance"><b>irrational exuberance</b></a> in startup valuations and funding, it feels more like <b>Disruptive Stagnation</b> (as opposed to Clayton Christensen's <b><a href="http://www.claytonchristensen.com/key-concepts/">Disruptive Innovation</a></b>).
 
-<h3>Scene: At 23:06 minutes in the movie, when a Casey is trying to cheer up her disheartened dad, Eddie, by telling him a story</h3>
+<h3>Scene: At 23:06 minutes in the movie, when Casey is trying to cheer up her disheartened dad, Eddie, by telling him a story</h3>
 
 <blockquote>
 <b>Casey:</b> There are two wolves.<br />
@@ -59,7 +59,7 @@ I cannot do justice to this scene by quoting the dialogues. So, here is the enti
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/cwf9Df56fn0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<br />Having gotten a first-hand experience at a dysfunctional Indian college for 6 years and having done a dozen or so online courses, I can totally relate my experiences to this scene. I would love to see more of alternative education systems such as online courses (<a href="https://www.udacity.com/">Udacity</a>, <a href="https://www.coursera.org/">Coursera</a>, <a href="https://www.edx.org/">EdX</a>, <a href="https://www.khanacademy.org/">Khan Academy</a> etc.), <a href="https://www.recurse.com/">The Recurse Center</a>, <a href="http://freecodecamp.com/">FreeCodeCamp</a> to name a few.
+<br />Having gotten a first-hand experience at a dysfunctional Indian college for 6 years and having done a dozen or so online courses, I can totally relate my experiences to this scene. I would love to see more alternative education systems such as (<a href="https://www.udacity.com/">Udacity</a>, <a href="https://www.coursera.org/">Coursera</a>, <a href="https://www.edx.org/">EdX</a>, <a href="https://www.khanacademy.org/">Khan Academy</a> etc.), <a href="https://www.recurse.com/">The Recurse Center</a>, <a href="http://freecodecamp.com/">FreeCodeCamp</a> to name a few.
 
 Quoting David Wiley:
 
@@ -82,7 +82,7 @@ Quoting David Wiley:
 <b>Athena</b>: I only found you a month ago when you started wantingly destroying government property which happens to go on my search parameters for recruitment.
 </blockquote>
 
-My commentary for this scene is merged with the commentary for the next scene. So, read on the next scene description!
+"..<b>destroying government property</b> which happens to go on my <b>search parameters for recruitment</b>". When was the last time you met such a bold HR. This is the exact reason I hate self-proclaimed HRs with just an MBA. My commentary for this scene is merged with the commentary for the next scene. So, read on for the next scene!
 
 <h3>Scene: At 118:04 minutes in the movie, a kid robot recruiter asks a question to Frank Waller related to hiring new candidates for Tomorrowland</h3>
 
@@ -94,7 +94,7 @@ My commentary for this scene is merged with the commentary for the next scene. S
 <b>Casey Newton</b>: Dreamers! We are looking for dreamers.
 </blockquote>
 
-The last two scenes mentioned above point out important lessons for hiring that most of the startups and HRs miss out. Why? Mainly because getting an MBA these days is easy peasy (at least in India where thousands, if not millions, of colleges offer an MBA degree). And once you join the MBA herd, the obvious choice for many is to join the Human Resources (HR) team to assist companies with hiring.
+The last two scenes mentioned above point out important lessons for hiring that most of the startups and HRs miss out. Why? Mainly because getting an MBA these days is easy peasy (at least in India where gazillions of colleges offer an MBA degree). And once you join the MBA herd, the obvious choice for many is to join the Human Resources (HR) team to assist companies with hiring.
 
 What these companies need to understand that hiring is inherently a slow process, requires unconventional approaches to find top talent and that hiring should not be driven either by past jobs/education or by intuition. Let's break this down:
 
@@ -106,7 +106,7 @@ Quoting Brian Chesky (Founder/CEO of Airbnb):
 #### 2. **Hiring requires unconventional approaches (along with the conventional ones):**
 Quoting from Chapter-9 titled **Liftoff** from [Elon Musk's unauthorized biography by Ashlee Vance](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS):
 <blockquote>The SpaceX hiring model places some emphasis on getting top marks at top schools. But most of the attention goes toward spotting engineers who have exhibited type A personality traits over the course of their lives. The company’s recruiters look for people who might excel at robot-building competitions or who are car-racing hobbyists who have built unusual vehicles. The object is to find individuals who ooze passion, can work well as part of a team, and have real-world experience bending metal. "We were looking for people that had been building things since they were little," said Dolly Singh, who spent five years as the head of talent acquisition at SpaceX... Singh relied on a handful of enterprising techniques to find them. <b>She became famous for trawling through academic papers to find engineers with very specific skills, cold-calling researchers at labs and plucking possessed engineers out of college.</b> At trade shows and conferences, SpaceX recruiters wooed interesting candidates they had spotted with a cloak-and-dagger shtick.</blockquote>
-So, to hire the top talent, you might need to visit competitions/hackathons/conferences, find hobbyists, read academic research papers etc.<br />Moreover, rather than relying on unconventional platforms (like LinkedIn, Angellist Jobs etc), one should also be on lookout for talent on unconventional platforms like [https://belong.co/](https://belong.co/). I recommended Beyond.co to one of my employers but they did a cost-benefit analysis and found that it would not be worth it. In my opinion, beyond.co is one of it's kind tool for hiring and a Skype screen-sharing demo & a cost-benefit analysis can't do justice to assess Beyond.co's capabilities.<br />TL;DR: We can't rely on conventional tools and approachess anymore to hire top talent.
+So, to hire the top talent, you might need to visit competitions/hackathons/conferences, find hobbyists, read academic research papers (or maybe find people who are destroying government property, as shown in the movie) etc.<br />Moreover, rather than relying just on unconventional platforms (like LinkedIn, Angellist Jobs etc), one should also be on lookout for talent on unconventional platforms like [https://belong.co/](https://belong.co/). I recommended Belong.co to my ex-employer but they did a cost-benefit analysis and found that it would not be worth it. In my opinion, Belong.co is one of it's kind tool for hiring and my ex-employer's decision to reject it based on a Skype screen-sharing demo & a cost-benefit analysis didn't do justice to assess Belong.co's capabilities.<br />TL;DR: We can't rely just on conventional tools and approaches anymore to hire top talent.
 
 #### 3. **Hiring should not be driven by intuition:**
 Having worked in/with 5 Indian startups in past 2 years, I strongly disagree when startups choose to use their intuition (rather than hard-learned lessons published elsewhere) to guide their hiring process. In my humble opinion, rather than driving hiring using intuition, one should read up *stuff* like:
@@ -116,11 +116,17 @@ Having worked in/with 5 Indian startups in past 2 years, I strongly disagree whe
 * Books like [Rework](https://37signals.com/rework/), [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) (to retain employees once you have hired them)
 * etc.
 
-#### 4. **Hiring should not give excessive emphasis to past job experience or education:**
+#### 4. **Hiring should not give excessive emphasis to past job experience or formal education:**
 Except maybe for engineering roles at companies like SpaceX, companies should not give excessive emphasis to education or past jobs while hiring people. Quoting [TripleByte's blogpost](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days):
 <blockquote>"What the industry needs is a way to screen candidates by looking at their actual ability, not where they went to school or worked in the past."</blockquote>
 
-I have much more to say about hiring but this blogpost is supposed to focus on Tomorrowland movie. An early draft of my blogpost on hiring is ready and I expect to publish it sometime soon.
+Quoting Shakthi Kannan from his epic [i-want-2-do-project-tell-me-wat-2-do](http://www.shakthimaan.com/downloads/glv/presentations/i-want-2-do-project-tell-me-wat-2-do.pdf) presentation:
+<blockquote>so-called "student" + degree != engineer
+You cannot buy knowledge.</blockquote>
+
+I have much more to say about hiring but this blogpost is supposed to focus on the Tomorrowland movie. An early draft of my blogpost on hiring is ready and I expect to publish it sometime soon.
 
 ### My verdict about Tomorrowland movie
 So, my verdict! If you ask me, Tomorrowland is at least a one-time watch. It's a fun, science fiction movie with many hidden lessons (Free bonus: It stars George Clooney if you like him). Go for it!
+
+**Thanks** to [Pawan Rawal](https://www.linkedin.com/in/pawanrawal1) and tortoick for reading early draft of this post.
