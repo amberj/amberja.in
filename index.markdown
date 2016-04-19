@@ -78,7 +78,7 @@
         <td><a href="http://www.taskbob.com/">Taskbob</a></td>
         <td>DevOps, Backend, Growth</td>
         <td>Mumbai</td>
-        <td>Apr 2015 - now</td>
+        <td>Apr 2015 - Dec 2015</td>
       </tr>
       <tr>
         <td><a href="http://www.tinyowl.com/">Tinyowl</a></td>
