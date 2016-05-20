@@ -6,6 +6,8 @@
 
 <blockquote>"I do not enlighten those who are not eager to learn, nor arouse those who are not anxious to give an explanation themselves. If I have presented one corner of the square and they cannot come back to me with the other three, I should not go over the points again." <i><b>- Confucius</b></i></blockquote>
 
+<blockquote>"Why can't we take robotics at Carnegie Mellon, linear algebra at MIT, law at Stanford? And why can't we put 130 of those together and make it a degree?" <i><b>- Professor David Wiley</b></i></blockquote>
+
 <blockquote>"Never memorize something that you can look up." <i><b>- Albert Einstein</b></i></blockquote>
 
 <blockquote>"When students cheat on exams, it's because our school system values grades more than student values learning." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
@@ -45,6 +47,8 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"I learned long ago, never to wrestle with a pig. You get dirty, and besides, the pig likes it." <i><b>- George Bernard Shaw</b></i></blockquote>
 
+<blockquote>""Sometime I'm also, shall we say, "myopic" when it comes to to other people's feelings, and that sometimes makes you say things that hurt other people... I get people who tell me that i should be nice. And then when I try to explain to them that maybe you're nice, maybe you should be more aggressive, they see that as me being not nice... So there's different kinds of people, and I'm not making excuses, I'm trying to explain."" <i><b>- Linus Torvalds (TED 2016) </b></i></blockquote>
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
@@ -73,7 +77,7 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"You're not solving the problem. You're not even looking at the problem." <i><b>- Moneyball (2011)</b></i></blockquote>
 
-<blockquote>"First step in solving any problem is recognizing there is one." <i><b>- Newsroom S01E01</b></i></blockquote>
+<blockquote>"First step in solving any problem is recognizing there is one." <i><b>- Newsroom (TV series) S01E01</b></i></blockquote>
 
 <blockquote>"You have a problem, so you decide to raise some money.
 Now you have two problems.
@@ -124,8 +128,6 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 <blockquote>"Don’t worry about people stealing your design work. Worry about the day they stop." <i><b>- Jeffrey Zeldman</b></i></blockquote>
 
 <blockquote>"User experience is everything. It always has been, but it’s undervalued and underinvested in. If you don’t know user-centered design, study it. Hire people who know it. Obsess over it. Live and breathe it. Get your whole company on board." <i><b>- Evan Williams</b></i></blockquote>
-
-<blockquote>"Why can't we take robotics at Carnegie Mellon, linear algebra at MIT, law at Stanford? And why can't we put 130 of those together and make it a degree?" <i><b>- Professor David Wiley</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
