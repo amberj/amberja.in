@@ -30,5 +30,9 @@ To be done.
 ### Programming
 To be done.
 
+### Software Engineering
+* Tom Preston-Werner (cofounder of Github) wrote [Semantic Versioning](http://semver.org/). These are simple set of rules and requirements that dictate how version numbers are assigned and incremented.
+* [The Twelve-Factor App](http://12factor.net/) is a triangulation on ideal practices for software-as-a-service apps development, paying particular attention to the dynamics of the organic growth of an app over time, the dynamics of collaboration between developers working on the app’s codebase, and avoiding the cost of software erosion.
+
 ### Growth hacking/Marketing
 To be done.
