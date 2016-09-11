@@ -47,7 +47,9 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"I learned long ago, never to wrestle with a pig. You get dirty, and besides, the pig likes it." <i><b>- George Bernard Shaw</b></i></blockquote>
 
-<blockquote>""Sometime I'm also, shall we say, "myopic" when it comes to to other people's feelings, and that sometimes makes you say things that hurt other people... I get people who tell me that i should be nice. And then when I try to explain to them that maybe you're nice, maybe you should be more aggressive, they see that as me being not nice... So there's different kinds of people, and I'm not making excuses, I'm trying to explain."" <i><b>- Linus Torvalds (TED 2016) </b></i></blockquote>
+<blockquote>"Sometime I'm also, shall we say, "myopic" when it comes to to other people's feelings, and that sometimes makes you say things that hurt other people... I get people who tell me that i should be nice. And then when I try to explain to them that maybe you're nice, maybe you should be more aggressive, they see that as me being not nice... So there's different kinds of people, and I'm not making excuses, I'm trying to explain." <i><b>- Linus Torvalds (TED 2016) </b></i></blockquote>
+
+<blockquote>"“I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy, not even mine. ”" <i><b>- Bertrand Russell</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
