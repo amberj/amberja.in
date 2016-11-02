@@ -1874,4 +1874,3 @@ So, adding it to my &quot;to-read&quot; bookshelf on Goodreads! I will update th
 </div>
 
 </div>
-<script src="https://www.goodreads.com/review/custom_widget/50208228.Amber's%20bookshelf:%20to-read?cover_position=right&cover_size=medium&num_books=100&order=d&shelf=to-read&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1478049119&widget_text_color=000000&widget_title_size=large&widget_width=full" type="text/javascript" charset="utf-8"></script>
