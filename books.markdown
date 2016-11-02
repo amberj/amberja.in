@@ -1,6 +1,6 @@
 ## Books
 
-      <style type="text/css" media="screen">
+<style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
         }
