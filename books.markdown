@@ -13,8 +13,8 @@
           padding: 0px 0px;
           overflow: hidden;
         }
-      </style>
-      <div id="gr_grid_widget_1478047565">
+</style>
+<div id="gr_grid_widget_1478047565">
         <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
             <h2>
       <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/50208228-amber-jain?shelf=to-read&utm_medium=api&utm_source=grid_widget">Amber's to-read bookshelf</a>
@@ -44,5 +44,5 @@
   <noscript><br/>Share <a href="/">book reviews</a> and ratings with Amber, and even join a <a href="/group">book club</a> on Goodreads.</noscript>
   </div>
 
-      </div>
-      <script src="https://www.goodreads.com/review/grid_widget/50208228.Amber's%20to-read%20bookshelf?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=to-read&sort=date_added&widget_id=1478047565" type="text/javascript" charset="utf-8"></script>
+</div>
+<script src="https://www.goodreads.com/review/grid_widget/50208228.Amber's%20to-read%20bookshelf?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=to-read&sort=date_added&widget_id=1478047565" type="text/javascript" charset="utf-8"></script>
