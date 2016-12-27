@@ -22,12 +22,12 @@ The error output from the command was:<br /><br />
 I restarted OS X and virtual machine, but all in vain. As you can see in the screenshot below, the virtual machine had booted fine, I could `vagrant ssh` into it, but shared folders had failed to mount:
 
 <div class="row">
-    <div class="col-xs-4 col-md-4">
+    <div class="col-md-2">
     </div>
-    <div class="col-xs-4 col-md-4">
-        <img src="./images/virtualbox-osx-error.png" />
+    <div class="col-md-8">
+        <img src="./images/virtualbox-osx-error.png" width="768" height="768" />
     </div>
-    <div class="col-xs-4 col-md-4">
+    <div class="col-md-2">
     </div>
 </div>
 
