@@ -7,6 +7,11 @@
     </p>
     <h4>
       <p>
+        <span class="label label-default">2016.12.28</span>
+        <span><a href="http://amberja.in/blog/osx-kernel-panic-vagrant-virtualbox-mounting-failed.html">How to solve Virtualbox's mounting failed error after Mac OS X Kernel Panic</a></span>
+      </p>
+      
+      <p>
         <span class="label label-default">2016.04.19</span>
         <span><a href="https://medium.com/@amberja_in/startup-education-innovation-hiring-lessons-from-tomorrowland-movie-f93370d3d39e#.9flo8vv0y">Startup, Education, Innovation & Hiring Lessons from Tomorrowland (movie)</a> (on medium.com)</span>
       </p>
