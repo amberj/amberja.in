@@ -61,7 +61,7 @@
     <div class="list-group">
       <button class="list-group-item disabled">My other blogs</button>
       <a href="https://medium.com/@amberja_in" class="list-group-item">My medium.com blog <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
-      <a href="http://designaked.com/" class="list-group-item">Designaked.com <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
+      <a href="http://designaked.tumblr.com/" class="list-group-item">DesigNaked <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
       <a href="http://amber-jain.blogspot.com/" class="list-group-item">amber-jain.blogspot.com (Old) <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
       <a href="http://thinkminus.wordpress.com/" class="list-group-item">thinkminus.wordpress.com (Old) <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
     </div>
