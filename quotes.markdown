@@ -14,9 +14,13 @@
 
 <blockquote>"Most certifications prove only one thing. They prove that you used to have $500." <i><b>- Alex Gantman</b></i></blockquote>
 
-<blockquote><span class="label label-default">New</span><br />"Fools learn from experience. I prefer to learn from the experience of others." <i><b>- Otto von Bismarck</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Fools learn from experience. I prefer to learn from the experience of others." <i><b>- Otto von Bismarck</b></i></blockquote>
 
-<blockquote>"The standardized tests are too crude to be used and should be abandoned." <i><b>- Frederick J Kelly (Inventor of standardised testing)</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"The standardized tests are too crude to be used and should be abandoned." <i><b>- Frederick J Kelly (Inventor of standardised testing)</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
@@ -55,21 +59,37 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"“I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy, not even mine. ”" <i><b>- Bertrand Russell</b></i></blockquote>
 
-<blockquote>"You never lose a dream, it just incubates as a hobby." <i><b>- Larry Page</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"You never lose a dream, it just incubates as a hobby." <i><b>- Larry Page</b></i></blockquote>
 
-<blockquote>"Love is a word that is constantly heard, Hate is a word that is not. Love, I am told, is more precious than gold. Love, I have read, is hot. But hate is the verb that to me is superb, And Love but a drug on the mart. Any kiddie in school can love like a fool, But Hating, my boy, is an Art." <i><b>- Ogden Nash</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Love is a word that is constantly heard, Hate is a word that is not. Love, I am told, is more precious than gold. Love, I have read, is hot. But hate is the verb that to me is superb, And Love but a drug on the mart. Any kiddie in school can love like a fool, But Hating, my boy, is an Art." <i><b>- Ogden Nash</b></i></blockquote>
 
-<blockquote>"A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and Tequila." <i><b>- Mitch Ratcliffe</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and Tequila." <i><b>- Mitch Ratcliffe</b></i></blockquote>
 
-<blockquote>"Sometimes, it’s the journey that teaches you a lot about your destination." <i><b>- Anonymous</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Sometimes, it’s the journey that teaches you a lot about your destination." <i><b>- Anonymous</b></i></blockquote>
 
-<blockquote>"Love your enemies: they'll go crazy trying to figure out what you're up to." <i><b>- Unknown</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Love your enemies: they'll go crazy trying to figure out what you're up to." <i><b>- Unknown</b></i></blockquote>
 
-<blockquote>"I have no special talent. I am only passionately curious." <i><b>- Unknown</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"I have no special talent. I am only passionately curious." <i><b>- Unknown</b></i></blockquote>
 
-<blockquote>"If you want to assert a truth, first make sure it's not just an opinion that you desperately want to be true." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"If you want to assert a truth, first make sure it's not just an opinion that you desperately want to be true." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
 
-<blockquote>"I’m generally a very pragmatic person: that which works, works." <i><b>- Unknown</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"I’m generally a very pragmatic person: that which works, works." <i><b>- Unknown</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
@@ -106,9 +126,13 @@ Now you have two problems.
 So you hire some people.
 Now you have three problems." <i><b>- Sam Altman</b></i></blockquote>
 
-<blockquote>"The best minds of my generation are thinking about how to make people click ads." <i><b>- Elon Musk</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"The best minds of my generation are thinking about how to make people click ads." <i><b>- Elon Musk</b></i></blockquote>
 
-<blockquote>"Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch." <i><b>- Tim Berners Lee</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch." <i><b>- Tim Berners Lee</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
@@ -145,7 +169,9 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 
 <blockquote>"Work expands so as to fill the time available for its completion." <i><b>- Parkinson's law</b></i></blockquote>
 
-<blockquote>"Another [time management] strategy is to ignore the fact that you are slowly killing yourself by not sleeping and exercising enough. That frees up several hours a day. The only downside is that you get fat and die." <i><b>- Scott Adams</b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"Another [time management] strategy is to ignore the fact that you are slowly killing yourself by not sleeping and exercising enough. That frees up several hours a day. The only downside is that you get fat and die." <i><b>- Scott Adams</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
@@ -201,7 +227,9 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 
 ### Miscellaneous
 
-<blockquote>"If you steal property, you must report its fair market value in your income in the year you steal it unless in the same year, you return it to its rightful owner." <i><b>- <a href="https://www.irs.gov/pub/irs-pdf/p17.pdf">Your Federal Income Tax, IRS Publication 17 (p. 90)</a></b></i></blockquote>
+<blockquote>
+<span class="label label-success">New</span><br />
+"If you steal property, you must report its fair market value in your income in the year you steal it unless in the same year, you return it to its rightful owner." <i><b>- <a href="https://www.irs.gov/pub/irs-pdf/p17.pdf">Your Federal Income Tax, IRS Publication 17 (p. 90)</a></b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
