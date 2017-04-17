@@ -9,7 +9,14 @@
                         <a href="#"><img class="media-object" src="/images/amber-jain-1.jpg" alt="Amber Jain" width="181" height="180"></a>
                     </div>
                     <div class="media-body">
-                        <h2 class="media-heading">Amber Jain</h2>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <h2><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span></h2>
+                            </div>
+                            <div class="col-md-11">
+                                <h2 class="media-heading">Amber Jain</h2>
+                            </div>
+                        </div>
                         <div class="row">
                             <div class="col-md-1">
                                 <span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span>
@@ -28,7 +35,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-1">
-                                <span class="glyphicon glyphicon-tags" aria-hidden="true"></span>
+                                <span class="glyphicon glyphicon-console" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
                                 <span class="label label-default">Python</span>
@@ -79,14 +86,14 @@
         <td><a href="http://www.hashgrowth.com/">HashGrowth</a></td>
         <td>Cofounder & CEO</td>
         <td>Bangalore</td>
-        <td>Aug 2015 - now</td>
+        <td>Aug 2016 - now</td>
       </tr>
       
       <tr>
         <td><a href="http://www.viralcents.com/">ViralCents</a></td>
         <td>Founder & CEO</td>
         <td>Bangalore</td>
-        <td>Feb 2015 - June 2015</td>
+        <td>Feb 2016 - June 2016</td>
       </tr>
       
       <tr>
