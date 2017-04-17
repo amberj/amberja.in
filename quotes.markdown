@@ -14,7 +14,7 @@
 
 <blockquote>"Most certifications prove only one thing. They prove that you used to have $500." <i><b>- Alex Gantman</b></i></blockquote>
 
-<blockquote>"Fools learn from experience. I prefer to learn from the experience of others." <i><b>- Otto von Bismarck</b></i></blockquote>
+<blockquote><span class="label label-default">New</span><br />"Fools learn from experience. I prefer to learn from the experience of others." <i><b>- Otto von Bismarck</b></i></blockquote>
 
 <blockquote>"The standardized tests are too crude to be used and should be abandoned." <i><b>- Frederick J Kelly (Inventor of standardised testing)</b></i></blockquote>
 
@@ -65,7 +65,7 @@ And now go forth and kick butt. <i><b>- Guy Kawasaki's #10 hindsight</b><i></blo
 
 <blockquote>"Love your enemies: they'll go crazy trying to figure out what you're up to." <i><b>- Unknown</b></i></blockquote>
 
-<blockquote>"I have no special talent. I am only passionately curious." <i><b>-Unknown</b></i></blockquote>
+<blockquote>"I have no special talent. I am only passionately curious." <i><b>- Unknown</b></i></blockquote>
 
 <blockquote>"If you want to assert a truth, first make sure it's not just an opinion that you desperately want to be true." <i><b>- Neil deGrasse Tyson</b></i></blockquote>
 
@@ -106,7 +106,7 @@ Now you have two problems.
 So you hire some people.
 Now you have three problems." <i><b>- Sam Altman</b></i></blockquote>
 
-<blockquote>"The best minds of my generation are thinking about how to make people click ads" <i><b>- Elon Musk</b></i></blockquote>
+<blockquote>"The best minds of my generation are thinking about how to make people click ads." <i><b>- Elon Musk</b></i></blockquote>
 
 <blockquote>"Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch." <i><b>- Tim Berners Lee</b></i></blockquote>
 
