@@ -1,7 +1,7 @@
 ## <a name="about"></a>
 
 <div class="row">
-    <div class="col-md-8 col-md-offset-2">
+    <div class="col-md-12">
         <div class="panel panel-info">
             <div class="panel-body">
                 <div class="media">
