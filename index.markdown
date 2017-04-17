@@ -11,26 +11,36 @@
                     <div class="media-body">
                         <div class="row">
                             <div class="col-md-1">
-                                <h4><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span></h4>
+                                <h2><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span></h2>
                             </div>
                             <div class="col-md-11">
-                                <h3 class="media-heading">Amber Jain</h3>
+                                <h2 class="media-heading">Amber Jain</h2>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-1">
-                                <span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span>
+                                <h4><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
                             </div>
                             <div class="col-md-11">
-                                Backend, DevOps &amp; Growth
+                                <h4 class="media-heading">Backend, DevOps &amp; Growth</h4>
                             </div>
                         </div>
+
                         <div class="row">
                             <div class="col-md-1">
-                                <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>
+                                <h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h4>
                             </div>
                             <div class="col-md-11">
-                                27 | Building <a href="http://www.hashgrowth.com/">HashGrowth</a> | ex-<a href="https://www.taskbob.com/">Taskbob</a> | ex-<a href="http://tinyowl.com/">Tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
+                                <h4 class="media-heading">Bangalore, India</h4>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-1">
+                                <h4><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span></h4>
+                            </div>
+                            <div class="col-md-11">
+                                <h4 class="media-heading">27 | Building <a href="http://www.hashgrowth.com/">HashGrowth</a> | ex-<a href="https://www.taskbob.com/">Taskbob</a> | ex-<a href="http://tinyowl.com/">Tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a></h4><br />
                             </div>
                         </div>
                         <div class="row">
@@ -51,14 +61,6 @@
                                 <span class="label label-default">CSS</span>
                                 <span class="label label-default">C</span>
                                 <span class="label label-default">Matlab/Octave</span>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-1">
-                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                            </div>
-                            <div class="col-md-11">
-                                Bangalore, India
                             </div>
                         </div>
                     </div>
