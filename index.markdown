@@ -14,7 +14,7 @@
                                 <span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                <h6>Amber Jain</h6>
+                                <b>Amber Jain</b>
                             </div>
                         </div>
                         <div class="row">
