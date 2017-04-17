@@ -23,7 +23,7 @@
                                 <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                25 | ex-<a href="http://in.taskbob.com/">@taskbob</a> | ex-<a href="http://tinyowl.com/">@tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
+                                27 | Building <a href="http://www.hashgrowth.com/">HashGrowth</a> | ex-<a href="https://www.taskbob.com/">Taskbob</a> | ex-<a href="http://tinyowl.com/">Tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a><br />
                             </div>
                         </div>
                         <div class="row">
@@ -51,7 +51,7 @@
                                 <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
                             </div>
                             <div class="col-md-11">
-                                Mumbai, India
+                                Bangalore, India
                             </div>
                         </div>
                     </div>
@@ -70,22 +70,39 @@
     <table class="table">
       <tr>
         <th>Company</th>
-        <th>Job description</th>
+        <th>Role</th>
         <th>Location</th>
         <th>Duration</th>
       </tr>
+      
+      <tr>
+        <td><a href="http://www.hashgrowth.com/">HashGrowth</a></td>
+        <td>Cofounder & CEO</td>
+        <td>Bangalore</td>
+        <td>Aug 2015 - now</td>
+      </tr>
+      
+      <tr>
+        <td><a href="http://www.viralcents.com/">ViralCents</a></td>
+        <td>Founder & CEO</td>
+        <td>Bangalore</td>
+        <td>Feb 2015 - June 2015</td>
+      </tr>
+      
       <tr>
         <td><a href="http://www.taskbob.com/">Taskbob</a></td>
         <td>DevOps, Backend, Growth</td>
         <td>Mumbai</td>
         <td>Apr 2015 - Dec 2015</td>
       </tr>
+      
       <tr>
         <td><a href="http://www.tinyowl.com/">Tinyowl</a></td>
         <td>DevOps Engineer</td>
         <td>Mumbai</td>
         <td>Jan 2014 - Nov 2014</td>
       </tr>
+      
       <tr>
         <td><a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code</a></td>
         <td>Build Engineer for <a href="http://opencog.org/">OpenCog Foundation</a> (<a href="./files/certificates/amberj-google-summer-of-code-certificate.jpg">Certificate</a>)</td>
