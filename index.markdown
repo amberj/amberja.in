@@ -11,10 +11,10 @@
                     <div class="media-body">
                         <div class="row">
                             <div class="col-md-1">
-                                <span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span>
+                                <h4><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span></h4>
                             </div>
                             <div class="col-md-11">
-                                <b>Amber Jain</b>
+                                <h3 class="media-heading">Amber Jain</h3>
                             </div>
                         </div>
                         <div class="row">
