@@ -1,70 +1,37 @@
 ## <a name="about"></a>
 
-<div class="row">
-    <div class="col-md-12">
-        <div class="panel panel-info">
-            <div class="panel-body">
-                <div class="media">
-                    <div class="media-left">
-                        <a href="#"><img class="media-object" src="/images/amber-jain-1.jpg" alt="Amber Jain" width="181" height="180"></a>
-                    </div>
-                    <div class="media-body">
-                        <div class="row">
-                            <div class="col-md-1">
-                                <h2><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span></h2>
-                            </div>
-                            <div class="col-md-11">
-                                <h2 class="media-heading">Amber Jain</h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-1">
-                                <h4><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-                            </div>
-                            <div class="col-md-11">
-                                <h4 class="media-heading">Backend, DevOps &amp; Growth</h4>
-                            </div>
-                        </div>
+<div class="panel panel-info">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <img class="media-object img-responsive center-block" src="/images/amber-jain-1.jpg" alt="Amber Jain">
+            </div>
 
-                        <div class="row">
-                            <div class="col-md-1">
-                                <h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h4>
-                            </div>
-                            <div class="col-md-11">
-                                <h4 class="media-heading">Bangalore, India</h4>
-                            </div>
-                        </div>
+            <div class="col-md-9">
+                <h3><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span> &nbsp; Amber Jain</h3>
 
-                        <div class="row">
-                            <div class="col-md-1">
-                                <h4><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span></h4>
-                            </div>
-                            <div class="col-md-11">
-                                <h4 class="media-heading">27 | Building <a href="http://www.hashgrowth.com/">HashGrowth</a> | ex-<a href="https://www.taskbob.com/">Taskbob</a> | ex-<a href="http://tinyowl.com/">Tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a></h4><br />
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-1">
-                                <span class="glyphicon glyphicon-console" aria-hidden="true"></span>
-                            </div>
-                            <div class="col-md-11">
-                                <span class="label label-default">Python</span>
-                                <span class="label label-default">Django</span>
-                                <span class="label label-default">Flask</span>
-                                <span class="label label-default">PostgreSQL</span>
-                                <span class="label label-default">Redis</span>
-                                <span class="label label-default">Ubuntu/Linux</span>
-                                <span class="label label-default">AWS</span>
-                                <span class="label label-default">DigitalOcean</span>
-                                <span class="label label-default">Bootstrap</span>
-                                <span class="label label-default">HTML</span>
-                                <span class="label label-default">CSS</span>
-                                <span class="label label-default">C</span>
-                                <span class="label label-default">Matlab/Octave</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <h4><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Backend, DevOps &amp; Growth</h4>
+
+                <h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Bangalore, India</h4>
+
+                <h4><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; 27 | Building <a href="http://www.hashgrowth.com/">HashGrowth</a> | ex-<a href="https://www.taskbob.com/">Taskbob</a> | ex-<a href="http://tinyowl.com/">Tinyowl</a> | <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a></h4>
+
+                <h4>
+                    <span class="glyphicon glyphicon-console" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp;
+                    <span class="label label-default">Python</span>
+                    <span class="label label-default">Django</span>
+                    <span class="label label-default">Flask</span>
+                    <span class="label label-default">PostgreSQL</span>
+                    <span class="label label-default">Redis</span>
+                    <span class="label label-default">Ubuntu/Linux</span>
+                    <span class="label label-default">AWS</span>
+                    <span class="label label-default">DigitalOcean</span>
+                    <span class="label label-default">Bootstrap</span>
+                    <span class="label label-default">HTML</span>
+                    <span class="label label-default">CSS</span>
+                    <span class="label label-default">C</span>
+                    <span class="label label-default">Matlab/Octave</span>
+                </h4>
             </div>
         </div>
     </div>
