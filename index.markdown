@@ -55,7 +55,6 @@ I am a programmer by education, but a <i>growth engineer</i> by profession. I ha
 
 As a Growth Hacking consultant, I help startups achieve accelerated growth. If you are interested to put your startup on a organic growth curve, [contact me over phone/email](/contact.html).
 
-<br />
 <div class="row">
   <div class="col-sm-12 col-md-4">
     <div class="thumbnail">
