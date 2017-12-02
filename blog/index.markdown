@@ -6,6 +6,12 @@
       <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
     </p>
     <h4>
+      
+      <p>
+        <span class="label label-default">2017.12.02</span>
+        <span><a href="http://amberja.in/blog/how-to-uninstall-Android-apps-using-TWRP-custom-recovery.html">How to uninstall Android apps using TWRP custom recovery?</a></span>
+      </p>
+
       <p>
         <span class="label label-default">2016.12.28</span>
         <span><a href="http://amberja.in/blog/osx-kernel-panic-vagrant-virtualbox-mounting-failed.html">How to solve Virtualbox's mounting failed error after Mac OS X Kernel Panic</a></span>
