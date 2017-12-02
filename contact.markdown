@@ -11,6 +11,8 @@ address">...</a>@gmail.com
 
 * IRC: *AmberJ* (on _irc.freenode.net_ and _irc.oftc.net_).
 
+* Skype: <i>jain.amber</i>
+
 * Twitter: [jain_amber](https://twitter.com/jain_amber)
 
 * LinkedIn: [amberjain](http://www.linkedin.com/in/amberjain)
