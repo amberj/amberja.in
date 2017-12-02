@@ -22,6 +22,14 @@
 <span class="label label-success">New</span><br />
 "The standardized tests are too crude to be used and should be abandoned." <i><b>- Frederick J Kelly (Inventor of standardised testing)</b></i></blockquote>
 
+<blockquote>
+<span class="label label-success">New</span><br />
+"Not having heard something is not as good as having heard it; having heard it is not as good as having seen it; having seen it is not as good as knowing it; knowing it is not as good as putting it into practice."  <i><b>- Xun Kuang</b></i></blockquote>
+
+"Frankly, though, I think most people can learn a lot more than they think they can. They sell themselves short without trying." - Elon Musk
+
+"One bit of advice: It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the details/leaves or there is nothing for them to hang on to." - Elon Musk
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
@@ -134,6 +142,8 @@ Now you have three problems." <i><b>- Sam Altman</b></i></blockquote>
 <span class="label label-success">New</span><br />
 "Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch." <i><b>- Tim Berners Lee</b></i></blockquote>
 
+<blockquote>"I get people who tell me that i should be nice. And then when I try to explain to them that maybe you're nice, maybe you should be more aggressive, they see that as me being not nice." <i><b>- Linus Torvalds </b></i></blockquote>
+
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
 -->
@@ -230,6 +240,8 @@ Too many colleges don’t deliver on what they promise. You generate a ton of de
 <blockquote>
 <span class="label label-success">New</span><br />
 "If you steal property, you must report its fair market value in your income in the year you steal it unless in the same year, you return it to its rightful owner." <i><b>- <a href="https://www.irs.gov/pub/irs-pdf/p17.pdf">Your Federal Income Tax, IRS Publication 17 (p. 90)</a></b></i></blockquote>
+
+<blockquote>"To be sure of hitting the target, shoot first and, whatever you hit, call it the target." <i><b>- Unknown</b></i></blockquote>
 
 <!--
 <blockquote>"" <i><b>- </b></i></blockquote>
