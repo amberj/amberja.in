@@ -33,3 +33,45 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.btn-custom-hackernews {
+  background-color: #FC6621;
+  color: #FFFFFF;
+}
+
+.btn-custom-goodreads {
+  background-color: #D7B749;
+  color: #FFFFFF;
+}
+
+.btn-custom-linkedin {
+  background-color: #127CB4;
+  color: #FFFFFF;
+}
+
+.btn-custom-medium {
+  background-color: #27C56B;
+  color: #FFFFFF;
+}
+
+.btn-custom-producthunt {
+  background-color: #D85538;
+  color: #FFFFFF;
+}
+
+.btn-custom-github {
+  background-color: #323131;
+  color: #FFFFFF;
+}
+
+.btn-custom-facebook {
+  background-color: #4468B0;
+  color: #FFFFFF;
+}
+
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 0.1px;
+        margin-right : 0.1px;
+    }
+}
