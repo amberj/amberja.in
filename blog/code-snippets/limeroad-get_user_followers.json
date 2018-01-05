@@ -1,0 +1,39 @@
+{
+	"userData": {
+		"followed": {
+			"users": [{
+				"_id": {
+					"$oid": "5a4f514f9dcd9f7fb37ffa16"
+				},
+				"fbid": "1395352297260837",
+				"picType": "facebook",
+				"pic": "//graph.facebook.com/1395352297260837/picture",
+				"tnpic": "//graph.facebook.com/1395352297260837/picture?type=square",
+				"user_id": "me.sid.cool@gmail.com",
+				"mobile": null,
+				"first_name": "Siddharth Pal",
+				"last_name": null,
+				"extra_params": null,
+				"email_id": "me.sid.cool@gmail.com",
+				"date_created": {
+					"$date": "2018-01-05T10:19:59.155Z"
+				},
+				"date_modified": {
+					"$date": "2018-01-05T10:20:05.495Z"
+				},
+				"godMotherEmailId": "\"\"",
+				"source": "",
+				"isVerified": true,
+				"affiliate_id": "81c153976b",
+				"is_new": false,
+				"uuid": "5a4f514f9dcd9f7fb37ffa16",
+				"name": "Siddharth Pal",
+				"followers": 0,
+				"id": "5a4f514f9dcd9f7fb37ffa16",
+				"is_following": false
+			}]
+		}
+	},
+	"token": 20,
+	"scrollDone": false
+}

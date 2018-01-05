@@ -1,0 +1,124 @@
+{
+	"userData": {
+		"follows": {
+			"users": [{
+				"_id": {
+					"$oid": "57bbd65ef80c243afefc3bcf"
+				},
+				"picType": "joulroad",
+				"tnpic": "//img1.junaroad.com/user_profile/thumb_23.jpg",
+				"pic": "//img1.junaroad.com/user_profile/23.jpg",
+				"user_id": "shivalighatpande3@gmail.com",
+				"mobile": "8698389211",
+				"first_name": null,
+				"last_name": null,
+				"extra_params": {
+					"user_source": "mobile_android",
+					"auth_id": "8c48c801-cec7-48c8-8e9a-0bb660d742b7"
+				},
+				"email_id": "shivalighatpande3@gmail.com",
+				"date_created": {
+					"$date": "2016-08-23T04:51:42.836Z"
+				},
+				"date_modified": {
+					"$date": "2017-07-27T11:05:50.826Z"
+				},
+				"godMotherEmailId": "\"\"",
+				"source": "Facebook Ads",
+				"androidIdn": "APA91bFhXhqbzb3-OnWRvgarOZFLtJeBBXMdDfR3e8tOIfh-UOqKMaFYWhdt3TaFQYyeUarrkPSJ7yaiYjGgAOtOKvoI7Q1mt9IaEdBYBgA5u_N6cvQvMi28vqWCcAD0URkP-4SMHHUn",
+				"medium": "Limeroad - App Installs - CPA",
+				"campaign": "IN - W - 13 ",
+				"srcmedcamp_date_modified": {
+					"$date": "2016-08-23T04:51:48.878Z"
+				},
+				"sex": "female",
+				"affiliate_id": "12e090913e",
+				"is_new": false,
+				"uuid": "57bbd65ef80c243afefc3bcf",
+				"name": "shivalighatpande3",
+				"followers": 13,
+				"id": "57bbd65ef80c243afefc3bcf",
+				"is_following": true
+			}, {
+				"_id": {
+					"$oid": "56027bc1149b870e6f45a0a3"
+				},
+				"picType": "joulroad",
+				"tnpic": "//img0.junaroad.com/user_profile/thumb_profile_56027bc1149b870e6f45a0a3-1481627384.png",
+				"pic": "//img0.junaroad.com/user_profile/mid_profile_56027bc1149b870e6f45a0a3-1481627384.png",
+				"user_id": "new.s@limeroad.com",
+				"mobile": "9999999999",
+				"first_name": "Natascha",
+				"last_name": "Tate",
+				"extra_params": {
+					"auth_id": "cc388fc0-0561-400f-9a0a-4ae937d35b0b"
+				},
+				"email_id": "new.s@limeroad.com",
+				"date_created": {
+					"$date": "2015-09-23T10:15:29.366Z"
+				},
+				"date_modified": {
+					"$date": "2017-12-17T10:38:42.534Z"
+				},
+				"godMotherEmailId": "\"\"",
+				"source": "",
+				"affiliate_id": "f706845256",
+				"bio": "",
+				"city": "Gurgaon",
+				"profession": "I work hard (and party harder)!",
+				"bloglink": "",
+				"sex": "female",
+				"topBlogger": "true",
+				"badge": "3",
+				"androidIdn": "APA91bGnaCyeePmmAJ6-N5bHKUNsH3cpO5afBY7DOOEGk-iFsI5eAfoCTtVEGUNJXwtk34jwYMPmmgnKNTh0dE2GA8RVh3I0v5r59xGGNP3HEl10XCwt4Eiom3dx6Mnc5Dm2M4H6QKvq",
+				"uuid": "56027bc1149b870e6f45a0a3",
+				"name": "Natascha Tate",
+				"followers": 16706,
+				"id": "56027bc1149b870e6f45a0a3",
+				"is_following": true
+			}, {
+				"_id": {
+					"$oid": "593f6bc4a7dae842e5d15464"
+				},
+				"picType": "joulroad",
+				"tnpic": "//img0.junaroad.com/user_profile/thumb_29.jpg",
+				"pic": "//img0.junaroad.com/user_profile/29.jpg",
+				"user_id": "komu509200@gmail.com",
+				"mobile": "8394895190",
+				"first_name": "Komal",
+				"last_name": "Srivastava",
+				"extra_params": {
+					"user_source": "mobile_android",
+					"auth_id": "0f2ca4ee-74dc-4bb2-ab2e-ce1c3e169fef"
+				},
+				"email_id": "komu509200@gmail.com",
+				"date_created": {
+					"$date": "2017-06-13T04:36:20.914Z"
+				},
+				"date_modified": {
+					"$date": "2017-10-12T03:09:55.649Z"
+				},
+				"godMotherEmailId": "\"\"",
+				"source": "Facebook Ads",
+				"medium": "Limeroad - App installs - ocpm - women - b1g2 - 22may",
+				"campaign": "IN - M - 16-25 - Limeroad - App installs - ocpm - women - b1g2 - 22may",
+				"srcmedcamp_date_modified": {
+					"$date": "2017-06-13T04:36:24.371Z"
+				},
+				"sex": "female",
+				"affiliate_id": "9e57ad4117",
+				"bio": "",
+				"city": "Rudrapur",
+				"profession": "I'm studying (believe it or not).",
+				"is_new": false,
+				"uuid": "593f6bc4a7dae842e5d15464",
+				"name": "Komal Srivastava",
+				"followers": 23,
+				"id": "593f6bc4a7dae842e5d15464",
+				"is_following": true
+			}]
+		}
+	},
+	"token": 20,
+	"scrollDone": false
+}
