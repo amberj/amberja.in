@@ -1,0 +1,26 @@
+{
+	"data": [{
+		"id": 1635605,
+		"prefix": "Mr.",
+		"firstName": "Amber",
+		"lastName": "Jain",
+		"postalType": "HOME",
+		"street": "Test address: line 1\nTest address: line 2",
+		"city": "BANGALORE",
+		"region": "KARNATAKA",
+		"postCode": "560078",
+		"countryCode": "IN",
+		"telephone": "9769110914",
+		"shipmentAvailable": true,
+		"shipmentAvailableDsa": true,
+		"codAvailable": true,
+		"codAvailableDsa": false,
+		"rpuAvailable": true,
+		"exchangeAvailable": true,
+		"daysToDeliver": 4,
+		"saveInAddressBook": true,
+		"sameAsBilling": false,
+		"collectShippingRates": 0
+	}],
+	"message": "success"
+}

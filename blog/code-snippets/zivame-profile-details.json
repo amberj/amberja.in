@@ -1,0 +1,283 @@
+{
+	"data": {
+		"profileCompleteness": {
+			"email": 1,
+			"name": 1,
+			"telephone": 1,
+			"fitcode": 1,
+			"occasion": 1,
+			"address": 1,
+			"wishlist": 1,
+			"review": -1
+		},
+		"loyalty": {
+			"validFrom": 1515571130329,
+			"validTo": 1547107130341,
+			"currentSpend": 0,
+			"transactions": [{
+				"tierVector": "UPGRADE",
+				"tierName": "Base",
+				"date": 1515571130329,
+				"header": "10-01-18 Moved Up to Base",
+				"color": true
+			}],
+			"offer": {
+				"offers": [],
+				"nextTierOffer": [{
+					"id": 28,
+					"name": "Flat Rs.200 OFF at Purplle.com",
+					"description": ["Use Code ZIVDIWL On Cart", "Offer Valid Only Once Per User", "Offer Valid Till 30th November 2017", "In Case Of Complete Or Partial Order Cancellation/Return, Discount Amount Will Be No Longer Applicable", "For Any Other Queries On Purplle, Please Email At customercare@purplle.com or Call On +91 9223300222"],
+					"shortDescription": "Get Flat Rs.200 OFF On Orders Above Rs.800 And Above, At Purplle.com",
+					"ctaLink": "",
+					"ctaText": "",
+					"applicableTiers": ["bronze", "silver", "gold"]
+				}]
+			},
+			"benifit": [{
+				"name": "Birthday/Anniversary Discount Coupons",
+				"image": "media/mimages/59db6b088ed31.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["bronze", "silver", "gold"],
+				"isAvailable": false
+			}, {
+				"name": "Exclusive Sales",
+				"image": "media/mimages/59e47b21794e3.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["bronze", "silver", "gold"],
+				"isAvailable": false
+			}, {
+				"name": "Extra Discounts On App Checkout",
+				"image": "media/mimages/59e47aeb30b4c.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["silver", "gold"],
+				"isAvailable": false
+			}, {
+				"name": "Exclusive Partner Brand Offers",
+				"image": "media/mimages/59e47b07b865d.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["silver", "gold"],
+				"isAvailable": false
+			}, {
+				"name": "Exclusive Customer Service",
+				"image": "media/mimages/59e47aa346a45.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["gold"],
+				"isAvailable": false
+			}, {
+				"name": "Free Unlimited Shipping\t",
+				"image": "media/mimages/59e47a882ed56.png",
+				"description": [""],
+				"shortDescription": "",
+				"ctaLink": "",
+				"ctaText": "",
+				"applicableTiers": ["gold"],
+				"isAvailable": false
+			}],
+			"tierInfo": {
+				"optionalMaxSpendLimit": 15000.0,
+				"optionalMaxSpendLimitInK": "15k",
+				"tiers": [{
+					"code": "base",
+					"name": "Base",
+					"image": "media/mimages/59db67d836b1f.png",
+					"minSpend": 0.0,
+					"maxSpend": 1999.9999,
+					"nextTierName": "Bronze",
+					"minSpendInK": "1",
+					"maxSpendInk": "2k"
+				}, {
+					"code": "bronze",
+					"name": "Bronze",
+					"image": "media/mimages/59db680ca41e1.png",
+					"minSpend": 2000.0,
+					"maxSpend": 5000.0,
+					"nextTierName": "Silver",
+					"previousTierName": "Base",
+					"minSpendInK": "2k",
+					"maxSpendInk": "5k"
+				}, {
+					"code": "silver",
+					"name": "Silver",
+					"image": "media/mimages/59db68304bf96.png",
+					"minSpend": 5000.0,
+					"maxSpend": 10000.0,
+					"nextTierName": "Gold",
+					"previousTierName": "Bronze",
+					"minSpendInK": "5k",
+					"maxSpendInk": "10k"
+				}, {
+					"code": "gold",
+					"name": "Gold",
+					"image": "media/mimages/59db6847ae022.png",
+					"minSpend": 10000.0,
+					"maxSpend": 1000001.0,
+					"previousTierName": "Silver",
+					"minSpendInK": "10k",
+					"maxSpendInk": "1000k"
+				}]
+			},
+			"image": "media/mimages/59db67d836b1f.png",
+			"staticContentInfo": {
+				"detailsTemplate": {
+					"head": "<html><head><link rel='stylesheet' type='text/css' href='http://cdn.zivame.com/live/css/foundation.min.css'><link rel='stylesheet' type='text/css' href='http://cdn.zivame.com/live/css/loyaltyStaticPage.css'><meta name='viewport' content='width=device-width, initial-scale=1.0'></head><body>",
+					"body": "<div id='program-detail-surface'><h2 class='pd-t5 ff-pi tt-ca lh-p pd-r15 text-center fs-20 hide loyalty-heading'>Loyalty Program</h2><h2 class='pd-t10 ff-pb tt-ca lh-p fs-16 pd-l5 br-b pd-b5'><span class='ff-rm'>How Does The Circle Of Radiance Work?</span></h2><p class='ff-rm fs-14 midgrey'>In the Circle Of Radiance, we offer you rewards based on your total Purchase Value. <span style='font-weight:bold;color:#555'>So, the benefits keep getting better and sexier as you go higher up!</span></p><p class='ff-rm fs-14 midgrey'><span style='font-size:24px;line-height:10px;vertical-align:-webkit-baseline-middle'>*</span><span>Purchase Value = Sum (all valid order totals) - Shipping Fees & COD Charges whenever applicable</span></p><h2 class='pd-t10 ff-pb tt-ca lh-p fs-16 pd-l5 br-b pd-b5'><span class='ff-rm'>How Do I Know Which Circle I&apos;m In?</span></h2><p class='ff-rm fs-14 midgrey'>There are 3 circles &#45; <span style='font-weight:bold;color:#555'>Bronze, Silver & Gold</span>. You are allocated to a specific circle based on your purchases in the past 12 months as follows:</p><table class='small-12 benifit-table'><tbody><tr class='br-b'><th class='small-6 text-center lh-15 z-bold'>Circle</th><th class='small-6 text-center br-l z-bold'>Purchase Value</th></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 text-center midgrey'>Bronze</td><td class='text-center fs-14 ff-rm lh-15 br-l midgrey'>&#8377 2,000 &#45; &#8377 4,999</td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 text-center midgrey'>Silver</td><td class='text-center fs-14 ff-rm lh-15 br-l midgrey'>&#8377 5,000 &#45; &#8377 9,999</td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 text-center midgrey'>Gold</td><td class='text-center fs-14 ff-rm lh-15 br-l midgrey'>&gt; &#8377 10,000</td></tr></tbody></table><ul style='list-style-type:disc' class='pd-l10'><li class='fs-14 midgrey ff-rm' style='font-style:italic'>In case of any returns, the value of the returned product(s) will be subtracted from the total Purchase Value.</li></ul><h2 class='pd-t10 ff-pb tt-ca lh-p fs-16 pd-l5 clear-both'><span class='ff-rm'>What Perks Or Rewards Will I Get?</span></h2><table class='small-12 benifit-table rewards-table'><tbody><tr class='br-b'><th class='small-6'>Benefits</th><th class='small-2 text-center br-l'><img class='tier-emblem blk' src='http://cdn.zivame.com/live/images/loyalty/Assets/Bronze%20small.png'><br><span class='pd-t7 inline-blk'>Bronze</span></th><th class='small-2 text-center br-l'><img class='tier-emblem blk' src='http://cdn.zivame.com/live/images/loyalty/Assets/Silver%20small.png'><br><span class='pd-t7 inline-blk'>Silver</span></th><th class='small-2 text-center br-l'><img class='tier-emblem blk' src='http://cdn.zivame.com/live/images/loyalty/Assets/Gold%20small.png'><br><span class='pd-t7 inline-blk'>Gold</span></th></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Exclusive Sales</td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold' aria-hidden='true'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Birthday/Anniversary Discount Coupons</td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Extra Discounts On App Checkout</td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Exclusive Partner Brand Offers</td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Exclusive Customer Service</td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr><tr class='br-b'><td class='fs-14 ff-rm lh-15 midgrey'>Free Unlimited Shipping</td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'></td><td class='text-center fs-12 br-l midgrey'><span class='icon-check z-bold'></span></td></tr></tbody></table><h2 class='pd-t10 ff-rm tt-ca lh-p fs-16 pd-l5 br-b pd-b5'>When Will I Move Up A Circle?</h2><ul style='list-style-type:disc' class='pd-l10 ff-rm'><li class='fs-14 midgrey'>When you make a new purchase, and the updated purchase value (after delivery) falls into a higher circle.</li></ul><h2 class='pd-t10 ff-rm tt-ca lh-p fs-16 pd-l5 br-b pd-b5'>What Happens Once I Move Up A Circle?</h2><ul style='list-style-type:disc' class='pd-l10 lh-13 inline-blk ff-rm'><li class='fs-14 midgrey'>You are entitled to all the exclusive benefits of the higher circle</li><li class='fs-14 midgrey'>The start & expiry dates get reset </li><li class='fs-14 midgrey'>New start date = date of upgrade</li><li class='fs-14 midgrey'>New expiry date = one year from the start date</li></ul><h2 class='pd-t10 ff-rm tt-ca lh-p fs-16 pd-l5 br-b pd-b5'>When Will I Move Down A Circle?</h2><ol type='i' class='mr-b0 ff-rm'><li class='fs-14 midgrey pd-b10'><span style='font-weight:bold;color:#555;letter-spacing:0' class='pd-b5'>In Case of Tier Expiry: </span><br><span class='lh-13 inline-blk pd-t10'>If your last 12 months&apos; total Purchase Value (from 12 months before the expiry date) is lesser than the minimum value required for the current circle, then you&apos;ll be automatically moved down to the next lower circle.</span></li><li class='fs-14 midgrey pd-b10'><span style='font-weight:bold;color:#555;letter-spacing:0' class='pd-b5'>In Case of Insufficient Total Purchase Value:</span><br><span class='lh-13 inline-blk pd-t10'>When you request a return, your total Purchase Value is revised after subtracting the value of the returned product(s). If the updated PurchaseValue falls into the range of a lower circle, then you will be automatically moved down to the lower circle.</span></li></ol><h2 class='pd-t10 ff-rm tt-ca lh-p fs-16 pd-l5 br-b pd-b5'>What Happens Once I Move Down A Circle?</h2><ul style='list-style-type:disc' class='pd-l10 pd-b15 mr-b0 lh-13 inline-blk ff-rm'><li class='fs-14 midgrey'>Your status and rewards will be updated</li><li class='fs-14 midgrey'>The start and expiry dates will be reset<br><span class='pd-l10 inline-blk'><span class='ff-rm' style='font-style:italic'>New start date = date of downgrade</span><br><span class='ff-rm' style='font-style:italic'>New expiry date = one year from the start date</span></span></li><li class='fs-14 midgrey'>Other loyalty related details will be updated</li></ul></div>",
+					"tail": "</body></html>"
+				},
+				"banner": {
+					"ctaLink": "/bras.html",
+					"desc": {
+						"login": "We love having you in our circle. Enjoy the rewards and benefits of your circle every single time you shop!",
+						"anonymous": "You’ve got to join our circle. It’s our way of rewarding your love with a bunch of goodies, services & surprises."
+					},
+					"image": "live/images/imgpsh_fullsize_banner.jpg"
+				},
+				"howItWorks": {
+					"title": "How It Works:",
+					"desc1": "The Circle Of Radiance is our loyalty program for you and the rewards are dependent on your purchase value. The benefits keep getting better and sexier as you go higher up.",
+					"desc2": "*Purchase Value = Sum of all valid order totals minus Shipping Fees & COD Charges whenever applicable."
+				},
+				"tierRanges": {
+					"title": "Circle Definition & Allocation:",
+					"desc1": "There are 3 circles – Bronze, Silver & Gold. You are allocated to a specific circle based on your purchases done in the past 12 Months/1 Year as follows,",
+					"desc2": "In case of any returns, the corresponding returned product(s) value will be subtracted from the purchase value.",
+					"table": {
+						"header": [{
+							"title": "Circle"
+						}, {
+							"title": "Purchase Value"
+						}],
+						"content": [{
+							"circle_name": "Base",
+							"PurchaseValueWeb": " < &#8377;1,999",
+							"PurchaseValueApp": "< ₹1,999"
+						}, {
+							"circle_name": "Bronze",
+							"PurchaseValueWeb": "&#8377;2,000 – &#8377;4,999",
+							"PurchaseValueApp": "₹2,000 – ₹4,999"
+						}, {
+							"circle_name": "Silver",
+							"PurchaseValueWeb": "&#8377;5,000 – &#8377;9,999",
+							"PurchaseValueApp": "₹5,000 – ₹9,999"
+						}, {
+							"circle_name": "Gold",
+							"PurchaseValueWeb": "> &#8377;10,000",
+							"PurchaseValueApp": "> ₹10,000"
+						}]
+					}
+				},
+				"rewardsAndPerks": {
+					"title": " Rewards & Perks:",
+					"desc": "",
+					"table": {
+						"header": [{
+							"title": "Benefits",
+							"icon": ""
+						}, {
+							"title": "Bronze",
+							"icon": "live/images/loyalty/Assets/Bronze%20small.png"
+						}, {
+							"title": "Silver",
+							"icon": "live/images/loyalty/Assets/Silver%20small.png"
+						}, {
+							"title": "Gold",
+							"icon": "live/images/loyalty/Assets/Gold%20small.png"
+						}],
+						"content": [{
+							"description": "Exclusive Sales",
+							"Bronze": true,
+							"Silver": true,
+							"Gold": true
+						}, {
+							"description": "Birthday/Anniversary Discount Coupons",
+							"Bronze": true,
+							"Silver": true,
+							"Gold": true
+						}, {
+							"description": "Extra Discounts On App Checkout",
+							"Bronze": false,
+							"Silver": true,
+							"Gold": true
+						}, {
+							"description": "Exclusive Partner Brand Offers",
+							"Bronze": false,
+							"Silver": true,
+							"Gold": true
+						}, {
+							"description": "Exclusive Customer Service",
+							"Bronze": false,
+							"Silver": false,
+							"Gold": true
+						}, {
+							"description": "Free Unlimited Shipping",
+							"Bronze": false,
+							"Silver": false,
+							"Gold": true
+						}]
+					}
+				},
+				"detailInfo": [{
+					"title": "When Do You Move Up A Circle:",
+					"desc": ["When you’ve made a purchase and the updated Purchase Value (after order is delivered) falls into a higher circle, then you’re eligible to move up to this higher circle and enjoy its exclusive benefits.", "On moving up a circle, the start & expiry dates get reset. The start date is the date of upgrade and the expiry date is one year from the start date.", "No moving up is possible for Gold circle members."]
+				}, {
+					"title": "When Do You Move Down A Circle:",
+					"desc": ["When you’ve requested for a return, the product(s) value is reduced from your total Purchase Value and if this updated Purchase Value falls into a lower circle, then you’re eligible to move down to this lower circle.", "You can also be moved down at the time of expiry. In this case, your last 12 months total Purchase Value is calculated (expiry date to 12 months before), and compared against the circles’ purchase value definitions. If it is lesser than the minimum value required for the current Circle, then you’ll be automatically moved down to the next lower circle.", "On being moved down a circle, your loyalty status will be updated, along with the circle’s start and expiry dates, and all other loyalty related details."]
+				}]
+			},
+			"currentSpendToolTip": "Sum of all valid order total, minus Shipping Fees and COD charges whenever applicable",
+			"spendRequiredToUpgradeToolTip": "Total Purchase Value required to upgrade to the next circle",
+			"spendRequiredToContinueToolTip": "Total Purchase Value to be achieved before your circle expiry date",
+			"validToToolTip": "The date on which your Circle of Radiance Membership expires",
+			"tierName": "Base",
+			"tierCode": "base",
+			"nextTier": "Bronze",
+			"spendRequiredToContinue": 0,
+			"spendRequiredToUpgrade": 2000,
+			"upgradeLink": "/zivame-brands.html"
+		},
+		"basicDetails": {
+			"id": 1897824,
+			"prefix": "Mr.",
+			"firstname": "AmberJ",
+			"lastname": "Jain",
+			"email": "i.amber.jain@gmail.com",
+			"telephone": "9769110914",
+			"zCoins": 0,
+			"ordersValue": 0,
+			"occasionCount": 3,
+			"cartCount": 0,
+			"wishlistCount": 2,
+			"reviewCount": 0,
+			"group": [1],
+			"taxClassId": 3,
+			"noteNotify": 1,
+			"isGuest": false,
+			"profileImageUrl": "//cdn.zivame.com/public/assets/images/avatarUnisexDefault.png",
+			"profileCompleteness": 95,
+			"nextStepMsg": "Review &amp; do some community good!",
+			"fitProfileId": 5,
+			"subscribedToNewsletter": false,
+			"isExistingUser": false,
+			"nextStepInProfile": "review",
+			"lastUsedPostCode": 560078,
+			"orderCount": 0,
+			"dsauser": false,
+			"sentWelcomeMail": true
+		}
+	},
+	"message": "success"
+}
