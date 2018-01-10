@@ -1,0 +1,97 @@
+{
+	"data": {
+		"profile": {
+			"customerId": 1991730,
+			"profileQuestionsResponse": [{
+				"id": 5,
+				"question": "Which of these images is the closest match to your breasts?",
+				"multivalue": false,
+				"mandatory": true,
+				"options": [{
+					"id": 10,
+					"backend_label": "FULL",
+					"frontend_label": "Fully Rounded",
+					"image": "media/mimages/5892ef8bd8c07.jpg",
+					"discover_question_id": "5"
+				}]
+			}, {
+				"id": 6,
+				"question": "How much gap is there between your breasts?",
+				"multivalue": false,
+				"mandatory": true,
+				"options": [{
+					"id": 13,
+					"backend_label": "CLOSESET",
+					"frontend_label": "Close set",
+					"image": "media/mimages/5892f01252a06.jpg",
+					"discover_question_id": "6"
+				}]
+			}, {
+				"id": 7,
+				"question": "Where is your nipple positioned?",
+				"multivalue": false,
+				"mandatory": true,
+				"options": [{
+					"id": 15,
+					"backend_label": "FIRM",
+					"frontend_label": "Above breast fold line",
+					"image": "media/mimages/5892f03a11355.jpg",
+					"discover_question_id": "7"
+				}]
+			}],
+			"cupSize": 90,
+			"bandSize": 75,
+			"hipSize": 75,
+			"sizes": [{
+				"categoryId": 1531,
+				"size": "XS"
+			}, {
+				"categoryId": 1530,
+				"size": "34 B"
+			}],
+			"fitProfile": {
+				"profileId": 2,
+				"profileTitle": "Close-set Rounded",
+				"profileImage": "/live/images/Close-set-Rounded.png",
+				"profileDescription": "You have gorgeous curves that are naturally well rounded and firm. Here’s what we recommend:",
+				"profileRecommendation": [{
+					"title": "Medium coverage bras",
+					"image": "http://cdn.zivame.com/mobile/assets/images/fit_profile/medium.png",
+					"subText": "Recommended"
+				}, {
+					"title": "Plunging neckline",
+					"image": "http://cdn.zivame.com/mobile/assets/images/fit_profile/plunging.png",
+					"subText": "Recommended"
+				}, {
+					"title": "Push-up",
+					"image": "http://cdn.zivame.com/mobile/assets/images/fit_profile/push.png",
+					"subText": "Recommended"
+				}],
+				"profileNonRecommendation": [{
+					"title": "Full coverage bras",
+					"image": "http://cdn.zivame.com/mobile/assets/images/fit_profile/full.png",
+					"subText": "Must Avoid"
+				}, {
+					"title": "3/4th coverage bras",
+					"image": "http://cdn.zivame.com/mobile/assets/images/fit_profile/3_4converage.png",
+					"subText": "Must Avoid"
+				}],
+				"profileAttributes": [{
+					"attribute": "Padding",
+					"description": "Stick to light padding that will easily hug your natural curves. No push-up needed!",
+					"image": "/live/images/fitcodeImages/Padded.png"
+				}, {
+					"attribute": "Underwire",
+					"description": "Opt for non-wired or regular wired styles that won’t poke at the centre of the bust.",
+					"image": "/live/images/fitcodeImages/Wired.png"
+				}, {
+					"attribute": "Coverage",
+					"description": "High to full coverage is the style that'll work best for you!",
+					"image": "/live/images/fitcodeImages/Coverage.png"
+				}]
+			},
+			"profileId": 2
+		}
+	},
+	"message": "success"
+}
