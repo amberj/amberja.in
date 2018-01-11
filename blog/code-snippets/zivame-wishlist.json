@@ -1,0 +1,84 @@
+{
+	"data": {
+		"count": 4,
+		"collections": [{
+			"name": "My Collection",
+			"id": 1400263,
+			"userId": 1897824,
+			"productsCount": 2,
+			"products": [{
+				"id": 209292,
+				"productType": "configurable",
+				"productUrl": "zivame-moroccan-lace-double-layered-underwired-bra-blue-n-red.html",
+				"primaryModelShots": [{
+					"small": "/media/zcmsimages/configimages/ZI100B-Blue Depths/1_small.jpg",
+					"large": "/media/zcmsimages/configimages/ZI100B-Blue Depths/1_large.jpg",
+					"extra_large": "/media/zcmsimages/configimages/ZI100B-Blue Depths/1_xlarge.jpg",
+					"extra_small": "/media/zcmsimages/configimages/ZI100B-Blue Depths/1_xsmall.jpg",
+					"medium": "/media/zcmsimages/configimages/ZI100B-Blue Depths/1_medium.jpg"
+				}],
+				"secondaryModelShots": [{
+					"medium": ["/media/zcmsimages/configimages/ZI100B-Blue Depths/2_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Blue Depths/3_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Blue Depths/4_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Blue Depths/5_medium.jpg"]
+				}],
+				"primaryVMShots": [],
+				"secondaryVMShots": [],
+				"primaryTransparentShots": [],
+				"secondaryTransparentShots": [],
+				"categoryIds": [948, 1245, 1246, 1247, 1248, 1383, 1469, 1471, 1473, 1514, 1516, 1521, 1525, 1530, 1555, 1558, 1561, 1562, 1569, 1732, 1759, 1773, 1781, 1802, 1804, 1909],
+				"mainCategoryId": 1530,
+				"mainCategoryName": "Bras",
+				"currency": "₹"
+			}, {
+				"id": 209293,
+				"productType": "configurable",
+				"productUrl": "zivame-moroccan-lace-double-layered-underwired-bra-pastel-green-n-maroon.html",
+				"primaryModelShots": [{
+					"small": "/media/zcmsimages/configimages/ZI100B-Silver Blue/1_small.jpg",
+					"large": "/media/zcmsimages/configimages/ZI100B-Silver Blue/1_large.jpg",
+					"extra_large": "/media/zcmsimages/configimages/ZI100B-Silver Blue/1_xlarge.jpg",
+					"extra_small": "/media/zcmsimages/configimages/ZI100B-Silver Blue/1_xsmall.jpg",
+					"medium": "/media/zcmsimages/configimages/ZI100B-Silver Blue/1_medium.jpg"
+				}],
+				"secondaryModelShots": [{
+					"medium": ["/media/zcmsimages/configimages/ZI100B-Silver Blue/2_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Silver Blue/3_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Silver Blue/4_medium.jpg", "/media/zcmsimages/configimages/ZI100B-Silver Blue/5_medium.jpg"]
+				}],
+				"primaryVMShots": [],
+				"secondaryVMShots": [],
+				"primaryTransparentShots": [],
+				"secondaryTransparentShots": [],
+				"categoryIds": [948, 1245, 1246, 1247, 1248, 1383, 1469, 1471, 1473, 1514, 1516, 1521, 1525, 1530, 1555, 1558, 1561, 1562, 1569, 1732, 1759, 1773, 1781, 1802, 1804, 1909],
+				"mainCategoryId": 1530,
+				"mainCategoryName": "Bras",
+				"currency": "₹"
+			}],
+			"timestamp": 1511483407000,
+			"categoryCount": {
+				"Bras": 2
+			},
+			"default": false
+		}, {
+			"name": "Test Occasion Na",
+			"id": 1519166,
+			"userId": 1897824,
+			"productsCount": 0,
+			"timestamp": 1515580318000,
+			"default": false
+		}, {
+			"name": "My Wedding Anniversary",
+			"id": 1519165,
+			"userId": 1897824,
+			"productsCount": 0,
+			"timestamp": 1515580288000,
+			"default": false
+		}, {
+			"name": "My Birthday",
+			"id": 1519164,
+			"userId": 1897824,
+			"productsCount": 0,
+			"timestamp": 1515580275000,
+			"default": false
+		}],
+		"customerId": 1897824
+	},
+	"message": "success"
+}

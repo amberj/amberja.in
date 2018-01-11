@@ -1,0 +1,246 @@
+{
+	"data": {
+		"id": 3694495,
+		"itemsCount": 1,
+		"itemsQuantity": 1,
+		"grandTotal": 1402.9500,
+		"userId": 1897824,
+		"deviceType": "ANDROID",
+		"subTotal": 1363.9500,
+		"subTotalWithDiscount": 1299.0000,
+		"subTotalWithDiscountWithoutTradeDiscount": 1299.0000,
+		"cashOnDeliveryAmount": 39.0000,
+		"countryCode": "IN",
+		"currencyCode": "INR",
+		"createdAt": 1515580473000,
+		"updatedAt": 1515580583000,
+		"user": {
+			"id": 1897824,
+			"prefix": "Mr.",
+			"firstname": "AmberJ",
+			"lastname": "Jain",
+			"email": "i.amber.jain@gmail.com",
+			"telephone": "9769110914",
+			"group": [1],
+			"isGuest": false,
+			"profileImageUrl": "//cdn.zivame.com/public/assets/images/avatarUnisexDefault.png",
+			"dsauser": false
+		},
+		"items": [{
+			"id": 18433784,
+			"productId": 199307,
+			"sku": "ZC4037FASHZBLUE0036C",
+			"name": "Zelocity Activewear",
+			"quantity": 1,
+			"price": 1299.0000,
+			"mrpPrice": 1995.0000,
+			"discountPercent": 0.0000,
+			"loyaltyDiscount": 0,
+			"discountAmount": 0.0000,
+			"tradeDiscountAmount": 0.0000,
+			"rowTotal": 1299.0000,
+			"rowTotalWithDiscount": 1363.9500,
+			"type": "SIMPLE",
+			"customVatAmount": 64.9500,
+			"isGiftWrapper": false,
+			"orderId": 3694495,
+			"qtyRefunded": 0,
+			"qtyCanceled": 1,
+			"qtyShipped": 0,
+			"amountRefunded": 0.0000,
+			"brandName": "Zelocity",
+			"item": {
+				"id": 18433783,
+				"productId": 209163,
+				"sku": "ZC4037FASHZBLUE0036C",
+				"name": "Zivame High Impact Sports Bra - Black N Purple",
+				"url": "zivame-high-impact-sports-bra-black-n-purple.html",
+				"image": "/media/catalog/product/1/_/1.jpg_24923.jpg",
+				"quantity": 1,
+				"price": 1299.0000,
+				"mrpPrice": 1995.0000,
+				"discountPercent": 0.0000,
+				"loyaltyDiscount": 0,
+				"discountAmount": 0.0000,
+				"tradeDiscountAmount": 0.0000,
+				"rowTotal": 1299.0000,
+				"rowTotalWithDiscount": 1363.9500,
+				"type": "CONFIGURABLE",
+				"customVatAmount": 64.9500,
+				"isGiftWrapper": false,
+				"orderId": 3694495,
+				"qtyRefunded": 0,
+				"qtyCanceled": 1,
+				"qtyShipped": 0,
+				"qtyReturnRequested": 0,
+				"amountRefunded": 0.0000,
+				"wishlistCount": 294,
+				"reviewCount": 3,
+				"categoryName": "Activewear",
+				"brandName": "Zelocity",
+				"returnAvailability": {
+					"available": true,
+					"message": "If for any reason you are not happy with your purchase, you may return or exchange the item(s) within 15 days of purchase."
+				},
+				"configSku": "ZC4037-Saxony Blue",
+				"reversePickUpStatus": {
+					"rpuAvailability": true,
+					"validationMessage": "If for any reason you are not happy with your purchase, you may return or exchange the item(s) within 15 days of purchase."
+				},
+				"refundUponReturn": 1363.95000,
+				"returnableQuantity": 0,
+				"returnUpdatableQuantity": 0
+			},
+			"sizeValue": "36 C",
+			"colorValue": "Blue",
+			"refundUponReturn": 1363.95000,
+			"returnableQuantity": 0,
+			"returnUpdatableQuantity": 0
+		}],
+		"shippingAmount": 0.0000,
+		"isShippingChargeApplicable": true,
+		"totalSavings": 696.00000000,
+		"savingPercent": 34.887218045113,
+		"tradeDiscountAmount": 0.0000,
+		"commissionPercent": 0,
+		"loyaltyDiscount": 0,
+		"discountAmount": 0.0000,
+		"totalMrpPrice": 1995.00000000,
+		"totalPrice": 1299.00000000,
+		"customVatAmount": 64.9500,
+		"zcoins": 0.0000,
+		"netPayable": 1402.9500,
+		"isCartRuleAvailable": false,
+		"incrementId": "602046285",
+		"quoteId": 10799706,
+		"netRefunded": 0.0000,
+		"mode": "COD",
+		"expectedDelivery": 1515926073000,
+		"cancelAvailability": {
+			"cancelAvailable": false,
+			"disabledReason": "None of the items in your order qualifies for cancel. Please refer to FAQ"
+		},
+		"reviews": [{
+			"reviewId": 130485,
+			"reviewRating": 4.0,
+			"reviewLike": 0.0,
+			"reviewDetail": "It looks pretty and is comfortable. But, it is more of a medium impact bra than high impact.",
+			"reviewCustomerId": 973965,
+			"reviewCustomerName": "Anonymous",
+			"reviewTimeline": "1 week ago"
+		}],
+		"rpuStatus": {
+			"rpuAvailability": false,
+			"rpuCancel": false,
+			"lastDateToReturn": "",
+			"disabledReason": "This order has not been shipped yet. Returns are unavailable.",
+			"selfShipment": false
+		},
+		"returnAvailability": {
+			"available": false,
+			"message": "This order has not been shipped yet. Returns are unavailable."
+		},
+		"returnCancelAvailable": false,
+		"autoCompleteUsed": false,
+		"marketPlace": false,
+		"image": "/media/catalog/product/1/_/1.jpg_24923.jpg",
+		"shippingAddress": {
+			"prefix": "Mr.",
+			"firstName": "Amber",
+			"lastName": "Jain",
+			"addressType": "shipping",
+			"postalType": "OTHER",
+			"street": "Test address: line 1\nTest address: line 2",
+			"city": "BANGALORE",
+			"region": "KARNATAKA",
+			"postCode": "560078",
+			"countryCode": "IN",
+			"telephone": "9769110914",
+			"email": "i.amber.jain@gmail.com",
+			"exchangeAvailable": true,
+			"daysToDeliver": 4
+		},
+		"billingAddress": {
+			"prefix": "Mr.",
+			"firstName": "Amber",
+			"lastName": "Jain",
+			"addressType": "billing",
+			"postalType": "OTHER",
+			"street": "Test address: line 1\nTest address: line 2",
+			"city": "BANGALORE",
+			"region": "KARNATAKA",
+			"postCode": "560078",
+			"countryCode": "IN",
+			"telephone": "9769110914",
+			"email": "i.amber.jain@gmail.com",
+			"exchangeAvailable": true,
+			"daysToDeliver": 4
+		},
+		"guest": false,
+		"displayStatus": "CANCELED",
+		"stage": 5,
+		"modeName": "Cash on Delivery",
+		"cancelType": "COD",
+		"noOfItemsPlusName": "Zivame High Impact Sports Bra - Black N Purple",
+		"categoryNames": ["Activewear"],
+		"refundAmountOnCancellation": 0.0000,
+		"displayOrderStatusHistory": [{
+			"orderId": 3694495,
+			"comment": "Cancelled by customer. Reason: Placed by Mistake",
+			"status": "CANCELED",
+			"label": "Order Cancelled",
+			"stage": 5,
+			"createdAt": 1515580584000
+		}, {
+			"orderId": 3694495,
+			"comment": "Device Type : android, PaymentName : COD, Last order was not deliverd : 602038692",
+			"status": "COD",
+			"label": "Order Placed",
+			"stage": 1,
+			"createdAt": 1515580473000
+		}],
+		"totalReviewCount": 3,
+		"totalWishlistCount": 294,
+		"statusDate": 1515580584000,
+		"dsa": false,
+		"aggregatedValues": [{
+			"label": "Total M.R.P",
+			"value": "₹1995",
+			"highlight": false
+		}, {
+			"label": "Savings on M.R.P",
+			"value": "(-) ₹696",
+			"highlight": true
+		}, {
+			"label": "Savings %",
+			"value": "34.8% OFF",
+			"highlight": true
+		}, {
+			"label": "Sub-total",
+			"value": "₹1299",
+			"highlight": false
+		}, {
+			"label": "Shipping",
+			"value": "FREE",
+			"highlight": false
+		}, {
+			"label": "COD charges",
+			"value": "₹39",
+			"highlight": false
+		}, {
+			"label": "GST",
+			"value": "₹64.95",
+			"highlight": false,
+			"tooltip": "GST charges are applicable for this order."
+		}, {
+			"label": "Order total",
+			"value": "₹1403",
+			"highlight": false
+		}, {
+			"label": "Net Payable",
+			"value": "₹1403",
+			"highlight": false
+		}]
+	},
+	"message": "success"
+}
