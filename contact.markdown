@@ -1,48 +1,56 @@
-### Contact
+### Contact Amber
+<br />
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+    	<a href="mailto:i.amber.jain@gmail.com" target="_blank">
+    		<button type="button" class="btn btn-default btn-block"><h4><img src="/images/gmail-icon.png" alt="gmail icon" width="20" height="20"> i.amber.jain@gmail.com</h4></button>
+    	</a>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <a href="tel:+919769110914">
+        	<button type="button" class="btn btn-default btn-block"><h4><img src="/images/mobile-icon.png" alt="Mobile icon" width="20" height="20"> (+91)97691-10914</h4></button>
+        </a>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <a href="http://www.linkedin.com/in/amberjain">
+        	<button type="button" class="btn btn-default btn-block"><h4><img src="/images/linkedin-icon.png" alt="linkedin icon" width="20" height="20"> LinkedIn</h4></button>
+        </a>
+    </div>
+</div>
 
-* Email:
-i.am<a 
-href="http://www.google.com/recaptcha/mailhide/d?k=016J0LWoLhuUWjSFyClRknwA==&amp;c=bKhfTECBumUMsIMIalr5_sLcX9n9SJxEsLTnLatdEK4=" 
-onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075016J0LWoLhuUWjSFyClRknwA\75\75\46c\75bKhfTECBumUMsIMIalr5_sLcX9n9SJxEsLTnLatdEK4\075', '', 
-'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail 
-address">...</a>@gmail.com
+<br />
 
-* Github: [amberj](https://github.com/amberj)
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+    	<a href="https://twitter.com/amberja_in" target="_blank">
+    		<button type="button" class="btn btn-default btn-block"><h4><img src="/images/twitter-icon.png" alt="pdf icon" width="20" height="20"> Twitter</h4></button>
+    	</a>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <a href="https://www.facebook.com/amber.jain">
+        	<button type="button" class="btn btn-default btn-block"><h4><img src="/images/facebook-icon.png" alt="facebook icon" width="20" height="20"> Facebook</h4></button>
+        </a>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <a href="https://github.com/amberj">
+        	<button type="button" class="btn btn-default btn-block"><h4><img src="/images/github-icon.png" alt="github icon" width="20" height="20"> GitHub</h4></button>
+        </a>
+    </div>
+</div>
 
-* IRC: *AmberJ* (on _irc.freenode.net_ and _irc.oftc.net_).
-
-* Skype: <i>jain.amber</i>
-
-* Twitter: [jain_amber](https://twitter.com/jain_amber)
-
-* LinkedIn: [amberjain](http://www.linkedin.com/in/amberjain)
-
-* Google+: [+AmberJain](https://plus.google.com/+AmberJain)
-
-* Facebook: [amber.jain](http://www.facebook.com/amber.jain)
+<br />
 
 #### Others
 
-* Launchpad: [i-amber-jain](https://launchpad.net/~i-amber-jain)
-
-* Google Code: [i.amber.jain](http://code.google.com/u/i.amber.jain/) and [ithinkminus](https://code.google.com/u/ithinkminus/)
-
-* Sourceforge: [amberj](https://sourceforge.net/users/amberj) and [ambr](https://sourceforge.net/users/ambr)
-
-* Codepad: [amberj](http://codepad.org/users/amberj)
-
+* Skype: <i>jain.amber</i>
+* IRC: *AmberJ* (on _irc.freenode.net_ and _irc.oftc.net_).
+* ProductHunt: [@amberja_in](https://www.producthunt.com/@amberja_in) 
+* HackerNews: [amberj](https://news.ycombinator.com/user?id=amberj)
+* StackOverflow: [amberj](https://stackoverflow.com/users/458256/amberj?tab=profile)
+* Quora: [Amber-Jain-1](https://www.quora.com/profile/Amber-Jain-1)
 * Bitbucket: [amberj](https://bitbucket.org/amberj)
-
+* Launchpad: [i-amber-jain](https://launchpad.net/~i-amber-jain)
+* Sourceforge: [amberj](https://sourceforge.net/users/amberj)
+* Codepad: [amberj](http://codepad.org/users/amberj)
 * Wikipedia: [JainAmber](http://en.wikipedia.org/wiki/User:JainAmber) ([contribs](http://en.wikipedia.org/wiki/Special:Contributions/JainAmber))
-
-* Social networking: [identi.ca](http://identi.ca/amberj) and [status.net](https://amber.status.net/). 
-
-* Picasa Web Albums: [i.amber.jain](http://picasaweb.google.com/i.amber.jain)
-
-* Research Without Walls: [Open access pledge](http://www.researchwithoutwalls.org/457).
-
-* Ohloh: [AmberJ](https://www.ohloh.net/accounts/AmberJ)
-
 * bytes.com: [AmberJain](http://bytes.com/amberjain)
-
-* Et cetera.
