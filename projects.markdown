@@ -1,5 +1,20 @@
 ### Projects
 
+<div class="row">
+
+    <div class="col-sm-12 col-md-4">
+        <a href="https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf"><button type="button" class="btn btn-default btn-block"><h4><img src="/images/pdf-icon.png" alt="pdf icon" width="20" height="20"> Amber Jain's Résumé</h4></button></a>
+    </div>
+
+    <div class="col-sm-12 col-md-4">
+        <a href="http://www.linkedin.com/in/amberjain"><button type="button" class="btn btn-default btn-block"><h4><img src="/images/linkedin-icon.png" alt="pdf" width="20" height="20"> Connect on LinkedIn</h4></button></a>
+    </div>
+
+    <div class="col-sm-12 col-md-4">
+        <a href="https://github.com/amberj"><button type="button" class="btn btn-default btn-block"><h4><img src="/images/github-icon.png" alt="pdf" width="20" height="20"> <i>amberj</i> on GitHub</h4></button></a>
+    </div>
+</div>
+
 #### Profiles
 
 * My [Github](https://github.com/amberj), [github:gists](https://gist.github.com/amberj) and [Bitbucket](https://bitbucket.org/amberj) profiles.

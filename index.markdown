@@ -8,7 +8,7 @@
             <div class="col-md-10">
                 <h4><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span> &nbsp; Amber Jain</h4>
 
-                <h5><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Growth Hacking Consultant; Backend/DevOps Engineer</h5>
+                <h5><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Growth Engineering; Backend/DevOps Engineer</h5>
 
                 <h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Bangalore, India</h5>
 
@@ -16,20 +16,23 @@
 
                 <h5>
                     <span class="glyphicon glyphicon-console" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp;
-                    <span class="label label-default">Python/Django</span>
+                    <span class="label label-default">Python/Django/Flask</span>
                     <span class="label label-default">PostgreSQL</span>
-                    <span class="label label-default">Redis</span>
-                    <span class="label label-default">Linux/AWS</span>
-                    <span class="label label-default">Bootstrap/HTML/CSS</span>
-                    <span class="label label-default">C</span>
+                    <span class="label label-default">RabbitMQ/Celery</span>
+                    <span class="label label-default">HTML/CSS/Bootstrap</span>
+                    <span class="label label-default">AWS/Azure/Linux</span>
+                    <span class="label label-default">HAProxy</span>
+                    <span class="label label-default">Nginx/Apache</span>
+                    <span class="label label-default">UWSGI/Gunicorn/Passenger</span>
+                    <span class="label label-default">Selenium/Appium</span>
+                    <span class="label label-default">Sentry</span>
+                    <span class="label label-default">ELK</span>
                     <span class="label label-default">Matlab/Octave</span>
                 </h5>
             </div>
         </div>
     </div>
 </div>
-
-## <a name="about"></a>About
 
 <div class="btn-group btn-group-justified" role="group" aria-label="...">
   <div class="btn-group" role="group">
@@ -46,14 +49,15 @@
   </div>
 </div>
 
-<br />
-I'm Amber Jain, based in Bengaluru (India). I'm founder/CEO of [HashGrowth](http://hashgrowth.com/) (a Y Combinator SUS17 alum). HashGrowth is a marketing technology startup where we are building a B2B SaaS product for App Store Optimization.
+## <a name="about"></a>About
 
-I have a Master's degree in Computer Applications. I worked for [OpenCog](https://opencog.org/) project in [Google Summer of Code 2012](https://www.google-melange.com/gsoc/homepage/google/gsoc2012). I started my career as one of the first 3 employees at food delivery startup [Tinyowl](http://tinyowl.com/) in 2014. In 2015, I started working as a Growth/Backend Engineer at home services startup [Taskbob](http://taskbob.com/). Since mid-2016, I had been building my product [HashGrowth](http://hashgrowth.com/). Along the way, I worked on projects like [MacAppStore.org](http://macappstore.org/) (one of [Alexa top 100000 websites](https://www.alexa.com/siteinfo/macappstore.org)), [ViralCents](http://viralcents.com/) (product for incentivized social sharing) etc. as well as few freelancing gigs on the side (for Housing.com, Risemetric.com, Chasebid.com, Grappr etc.)
+I'm Amber Jain, based in Bengaluru (India). I'm Founder/CEO of [HashGrowth](http://hashgrowth.com/) (Y Combinator SUS17). HashGrowth is a bootstrapped MarTech startup where we are building a B2B/SaaS product for App Store Optimization.
 
-I am a programmer by education, but a <i>growth engineer</i> by profession. I have worked in different capacities as a growth hacker, backend engineer and devops at different startups. I write about [Growth](), [Engineering](), [Security]() etc on my blog.
+I have a Master's degree in Computer Applications. I worked for [OpenCog Foundation](https://opencog.org/) in [Google Summer of Code 2012](https://www.google-melange.com/gsoc/homepage/google/gsoc2012). I was one of the first 3 hires at food delivery startup [Tinyowl](http://tinyowl.com/) (acquired by Runnr). Then I worked as a Growth/DevOps Engineer at home services startup [Taskbob](http://taskbob.com/). Since mid-2016, I had been building [HashGrowth](http://hashgrowth.com/). I had freelanced for companies like Housing.com, Risemetric.com, Chasebid.com, Grappr etc. I maintain a bunch of projects like [MacAppStore.org](http://macappstore.org/) (one of [Alexa top 100000 websites](https://www.alexa.com/siteinfo/macappstore.org)), [ViralCents](http://viralcents.com/) (incentivized social sharing) etc.
 
-As a Growth Hacking consultant, I help startups achieve accelerated growth. If you are interested to put your startup on a organic growth curve, [contact me over phone/email](/contact.html).
+I am a programmer by education, but a <i>growth engineer</i> by profession. I specialize in leveraging technology/automation with unconventional traction channels to drive growth for early stage startups. I have worked in different capacities as a Growth Hacker, Backend Engineer and Devops Engineer at different startups. I write about [Growth](), [Engineering]() and [Security]() on my blog.
+
+Intrigued about the work that I have done? Let's discuss how to put your startup on accelarated growth curve. Feel free to contact me over [phone/email](/contact.html).
 
 <div class="row">
   <div class="col-sm-12 col-md-4">
@@ -71,7 +75,7 @@ As a Growth Hacking consultant, I help startups achieve accelerated growth. If y
       <img class="img-responsive center-block" src="/images/dharamshala-origami-school.jpg" alt="Teaching Origami to school kids in Upper TCV School at Dharamshala">
       <div class="caption">
         <h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Upper TCV School</h5>
-        <p>Teaching Origami to kids in Upper TCV School at Dharamshala (as part of <a href="https://hillhacks.in/about/">Hillhacks 2016</a> school program).</p>
+        <p>Teaching Origami to kids in Upper TCV School at Dharamshala (for <a href="https://hillhacks.in/about/">Hillhacks 2016</a> school program).</p>
       </div>
     </div>
   </div>
