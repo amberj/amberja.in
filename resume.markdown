@@ -3,7 +3,7 @@
 <div class="row">
 
     <div class="col-sm-12 col-md-4">
-        <a href="https://github.com/amberj/amberj-resume/raw/master/amberj-resume.pdf"><button type="button" class="btn btn-default btn-block"><h4><img src="/images/pdf-icon.png" alt="pdf icon" width="20" height="20"> Amber Jain's Résumé</h4></button></a>
+        <a href="https://github.com/amberj/amberj-resume/raw/master/Amber-Jain-Resume.pdf"><button type="button" class="btn btn-default btn-block"><h4><img src="/images/pdf-icon.png" alt="pdf icon" width="20" height="20"> Amber Jain's Résumé</h4></button></a>
     </div>
 
     <div class="col-sm-12 col-md-4">
