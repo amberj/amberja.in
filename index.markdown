@@ -8,7 +8,7 @@
             <div class="col-md-10">
                 <h4><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span> &nbsp; Amber Jain</h4>
 
-                <h5><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Growth Engineering; Backend/DevOps Engineer</h5>
+                <h5><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Growth Engineering, Inbound Marketing, Backend/DevOps Engineer</h5>
 
                 <h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Bangalore, India</h5>
 
