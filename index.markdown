@@ -10,11 +10,10 @@
 
                 <h5><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Growth Engineering, Inbound Marketing, Backend/DevOps Engineer</h5>
 
-                <h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Bangalore, India</h5>
+                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Bangalore, India
 
-                <h5><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Founder/CEO of <a href="http://www.hashgrowth.com/">HashGrowth</a> (YC SUS17); Worked at <a href="https://www.taskbob.com/">Taskbob</a>, <a href="http://tinyowl.com/">Tinyowl</a>, <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a></h5>
+                <span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp; Founder/CEO of <a href="http://www.hashgrowth.com/">HashGrowth</a> (YC SUS17); Worked at <a href="https://www.taskbob.com/">Taskbob</a>, <a href="http://tinyowl.com/">Tinyowl</a>, <a href="https://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a>
 
-                <h5>
                     <span class="glyphicon glyphicon-console" aria-hidden="true"></span> &nbsp;&nbsp;&nbsp;
                     <span class="label label-default">Python/Django/Flask</span>
                     <span class="label label-default">PostgreSQL</span>
@@ -28,7 +27,6 @@
                     <span class="label label-default">Sentry</span>
                     <span class="label label-default">ELK</span>
                     <span class="label label-default">Matlab/Octave</span>
-                </h5>
             </div>
         </div>
     </div>
