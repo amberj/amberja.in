@@ -1,6 +1,6 @@
 # What has dinosaurs got to do with Operating Systems?
 
-On November 4, 2012, someone asked this question on my college developers mailing list mailing list:
+On November 4, 2012, someone asked this question on my college developers mailing list:
 <blockquote>Why do many Operating Systems' books have dinosaurs on their front covers?</blockquote>
 
 I just bumped into that thread and thought of publishing my answer from there as a blogpost (with some minor grammar edits).
