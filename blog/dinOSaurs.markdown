@@ -1,9 +1,9 @@
-<h1>What has dinosaurs got to do with Operating Systems?</h1>
+# What has dinosaurs got to do with Operating Systems?
 
-**Note**: I sent this email to my college devs mailing list on November 4, 2012. I just bumped into it and thought of publishing it (with some minor grammar edits).
-
-Few weeks ago, someone asked me on a mailing list:
+On November 4, 2012, someone asked this question on my college developers mailing list mailing list:
 <blockquote>Why do many Operating Systems' books have dinosaurs on their front covers?</blockquote>
+
+I just bumped into that thread and thought of publishing my answer from there as a blogpost (with some minor grammar edits).
 
 <div class="row">
   <div class="hidden-sm col-md-3">
@@ -22,7 +22,7 @@ Few weeks ago, someone asked me on a mailing list:
   </div>
 </div>
 
-Peter Baer Galvin, one of the co-authors of this book wrote a blogpost[2] where he talks about the significance of dinosaurs as well as evolution of these animals over covers of different editions of this book:
+Peter Baer Galvin, one of the co-authors of this book wrote a blogpost titled [History of the Operating System Concepts Textbooks (by Peter B. Galvin)](https://galvin.info/2007/03/13/history-of-the-operating-system-concepts-textbooks/), where he talks about the significance of dinosaurs as well as evolution of these animals over covers of different editions of this book:
 
 <blockquote>"The general name for the series is “the dinosaur book” although the covers have included non-dinos as well. As far as we know this series is the best-selling operating system textbook.<br /><br />
 
@@ -48,7 +48,7 @@ Fred Brooks' seminal book **The Mythical Man Month**, which is more about softwa
   </div>
 </div>
 
-Quoting Andrew Tanenbaum [0] from his standard text for Operating Systems [1]:
+Quoting [Andrew Tanenbaum](http://en.wikipedia.org/wiki/Andrew_S._Tanenbaum) from his standard text for Operating Systems[0]:
 <blockquote>"...There was no way that IBM (or anybody else) could write a piece of software to meet all those conflicting requirements. The result was an enormous and extraordinarily complex operating system [i.e. OS/360].... One of the designers of OS/360, Fred Brooks, subsequently wrote a witty and incisive book describing his experiences with OS/360 (Brooks, 1995). While it would be impossible to summarize the book here, suffice it to say that the cover shows a herd of prehistoric beasts stuck in a tar pit. The cover of Silberschatz et al. (2004) makes a similar point about operating systems being dinosaurs."</blockquote>
 
 So, these cover images were specifically chosen by the authors to convey a hidden but significant concept. As someone aptly said: "A picture is worth a thousand words". But as the Chinese say, aren't **1001 words worth more than a picture**? Stumped? Don't worry, it's just [a spoof phrase by Turing Award winner John McCarthy](https://en.wikipedia.org/w/index.php?title=A_picture_is_worth_a_thousand_words&oldid=855769081#Disagreement).
@@ -89,7 +89,5 @@ If you are still here, you might also want to check out entries for [Rainbow ser
 
 If you have never heard about the Jargon File, it is a glossary and usage dictionary of slang used by computer programmers (which has been maintained for over 40 years now). You can read the Jargon File in it's entirety on Eric S. Raymond's website: [http://catb.org/jargon/html/](http://catb.org/jargon/html/). Alternatively, if you want a dead-tree version of Jargon File, buy revised third edition of **The New Hacker's Dictionary** published in 1996.
 
-#### References:
-* [0] [Andrew S. Tanenbaum](http://en.wikipedia.org/wiki/Andrew_S._Tanenbaum) (Wikipedia)
-* [1] Tanenbaum, Andrew S., and Albert S. Woodhull. Operating Systems: Design and Implementation. 3rd ed. Pearson Prentice Hall, 2006.
-* [2] Blogpost: [History of the Operating System Concepts Textbooks (by Peter B. Galvin)](https://galvin.info/2007/03/13/history-of-the-operating-system-concepts-textbooks/)
+## References:
+* [0] Tanenbaum, Andrew S., and Albert S. Woodhull. Operating Systems: Design and Implementation. 3rd ed. Pearson Prentice Hall, 2006.
