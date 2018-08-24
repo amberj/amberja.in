@@ -78,10 +78,8 @@ Hopcroft and Ullman's **Introduction to Automata Theory, Languages, and Computat
 
 Guy L. Steele Jr.'s **Common LISP: The Language** book is known as [**Aluminum Book**](http://www.catb.org/jargon/html/A/Aluminum-Book.html).
 
-<blockquote></blockquote>
-
 ## Camel Book
-Programming Perl book by Larry Wall (creator of Perl programming languages) & Randal Schwartz is popularly referred to as [**Camel Book**](http://www.catb.org/jargon/html/C/Camel-Book.html).
+**Programming Perl** book by Larry Wall (creator of Perl programming languages) & Randal Schwartz is popularly referred to as [**Camel Book**](http://www.catb.org/jargon/html/C/Camel-Book.html).
 
 ## Rainbow Series and Bible(s)
 
