@@ -13,7 +13,7 @@ Few weeks ago, someone asked me on a mailing list:
     <div class="thumbnail">
       <img class="img-responsive center-block" src="/blog/images/dinOSaurs-1.jpg" alt="Operating Systems book cover (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)" width="50%" height="50%">
       <div class="caption">
-        <p>Operating Systems book cover (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)</p>
+        <p class="text-center">Operating Systems book cover (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)</p>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@ Fred Brooks' seminal book **The Mythical Man Month**, which is more about softwa
     <div class="thumbnail">
       <img class="img-responsive center-block" src="/blog/images/dinOSaurs-2.jpg" alt="The Mythical Man Month book cover (by Fred Brooks)" width="50%" height="50%">
       <div class="caption">
-        <p>The Mythical Man Month book cover (by Fred Brooks)</p>
+        <p class="text-center">The Mythical Man Month book cover (by Fred Brooks)</p>
       </div>
     </div>
   </div>
