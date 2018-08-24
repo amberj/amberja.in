@@ -6,7 +6,7 @@ Few weeks ago, someone asked me on a mailing list:
 <blockquote>Why do many Operating Systems' books have dinosaurs on their front covers?</blockquote>
 
 <div class="row">
-  <div class="hidden-sm col-md-6">
+  <div class="hidden-sm col-md-3">
   </div>
   
   <div class="col-sm-12 col-md-6">
@@ -18,7 +18,7 @@ Few weeks ago, someone asked me on a mailing list:
     </div>
   </div>
   
-  <div class="hidden-sm col-md-6">
+  <div class="hidden-sm col-md-3">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ The critters on the cover indicate both the evolution of operating systems and t
 Fred Brooks' seminal book **The Mythical Man Month**, which is more about software engineering and project management (and less about operating systems) but it documents Brooks' observations while managing the development of OS/360 at IBM. Paraphrasing Andrew Tanenbaum[0], the cover of this book "shows a herd of prehistoric beasts stuck in a tar pit":
 
 <div class="row">
-  <div class="hidden-sm col-md-6">
+  <div class="hidden-sm col-md-3">
   </div>
   
   <div class="col-sm-12 col-md-6">
@@ -44,7 +44,7 @@ Fred Brooks' seminal book **The Mythical Man Month**, which is more about softwa
     </div>
   </div>
   
-  <div class="hidden-sm col-md-6">
+  <div class="hidden-sm col-md-3">
   </div>
 </div>
 
