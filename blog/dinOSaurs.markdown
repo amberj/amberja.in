@@ -108,7 +108,7 @@ Hopcroft and Ullman's **Introduction to Automata Theory, Languages, and Computat
   
   <div class="col-sm-12 col-md-6">
     <div class="thumbnail">
-      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-5.png" alt="Front and back cover of book Introduction to Automata Theory, Languages, and Computation (by Jeffrey Ullman and John Hopcroft)" width="50%" height="50%">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-5.png" alt="Front and back cover of book Introduction to Automata Theory, Languages, and Computation (by Jeffrey Ullman and John Hopcroft)" width="80%" height="80%">
       <div class="caption">
         <p class="text-center">Front and back cover of book Introduction to Automata Theory, Languages, and Computation (by Jeffrey Ullman and John Hopcroft)</p>
       </div>
@@ -151,9 +151,9 @@ Hopcroft and Ullman's **Introduction to Automata Theory, Languages, and Computat
   
   <div class="col-sm-12 col-md-6">
     <div class="thumbnail">
-      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-7.jpg" alt="Cover of book Programming Perl (by Larry Wall & Randal Schwartz)" width="50%" height="50%">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-7.jpg" alt="Cover of book Programming Perl (by Larry Wall et al.)" width="50%" height="50%">
       <div class="caption">
-        <p class="text-center">Cover of book Programming Perl (by Larry Wall & Randal Schwartz)</p>
+        <p class="text-center">Cover of book Programming Perl (by Larry Wall et al.)</p>
       </div>
     </div>
   </div>
