@@ -58,15 +58,66 @@ If you are still reading this blogpost, here's some additional food for thought 
 ## Wizard Book or Purple Book
 Abelson & Sussman's **Structure and Interpretation of Computer Programs** is colloquially known as the [**Wizard Book**](http://www.catb.org/jargon/html/W/Wizard-Book.html) (due to the wizard on the jacket) as well as [**Purple Book**](http://www.catb.org/jargon/html/P/Purple-Book.html) due to an "amazingly nauseating shade of off-lavender on covers of the first editions".
 
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-3.jpg" alt="Cover of book Structure and Interpretation of Computer Programs (by Gerald Sussman and Hal Abelson)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Cover of book Structure and Interpretation of Computer Programs (by Gerald Sussman and Hal Abelson)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
+
 ## Dragon Book(s)
-Aho & Ullman wrote a couple of books on Compilers (**Compilers: Principles, Techniques, and Tools** and **Principles of Compiler Design** [both](https://en.wikipedia.org/wiki/Dragon_Book) of which are referred to as **Dragon Book(s)**. Quoting the [Jargon File entry for **Dragon Book**](http://www.catb.org/jargon/html/D/Dragon-Book.html)
+Aho, Ullman et al. wrote a couple of books on Compilers (**Compilers: Principles, Techniques, and Tools** and **Principles of Compiler Design** [both](https://en.wikipedia.org/wiki/Dragon_Book) of which are referred to as **Dragon Book(s)**. Quoting the [Jargon File entry for **Dragon Book**](http://www.catb.org/jargon/html/D/Dragon-Book.html):
 
 <blockquote>"The classic text Compilers: Principles, Techniques and Tools... so called because of the cover design featuring a dragon labeled ‘complexity of compiler design’ and a knight bearing the lance ‘LALR parser generator’ among his other trappings."</blockquote>
+
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-4.png" alt="Cover of book Compilers: Principles, Techniques and Tools (by Alfred Aho, Jeffrey Ullman, Monica S. Lam, and Ravi Sethi)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Cover of book Compilers: Principles, Techniques and Tools (by Alfred Aho, Jeffrey Ullman, Monica S. Lam, and Ravi Sethi)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
 
 ## Cinderella Book
 Hopcroft and Ullman's **Introduction to Automata Theory, Languages, and Computation** is known as **Cinderella Book**. Quoting the [Jargon File entry for **Cinderella Book**](http://www.catb.org/jargon/html/C/Cinderella-Book.html):
 
 <blockquote>"So called because the cover depicts a girl (putatively Cinderella) sitting in front of a Rube Goldberg device and holding a rope coming out of it. On the back cover, the device is in shambles after she has (inevitably) pulled on the rope."</blockquote>
+
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-5.png" alt="Front and back cover of book Introduction to Automata Theory, Languages, and Computation (by Jeffrey Ullman and John Hopcroft)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Front and back cover of book Introduction to Automata Theory, Languages, and Computation (by Jeffrey Ullman and John Hopcroft)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
 
 ## Daemon Book
 
@@ -74,12 +125,63 @@ Hopcroft and Ullman's **Introduction to Automata Theory, Languages, and Computat
 
 <blockquote>"So called because the covers have a picture depicting a little demon (a visual play on daemon) in sneakers, holding a pitchfork (referring to one of the characteristic features of Unix, the fork(2) system call)."</blockquote>
 
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-6.jpg" alt="Cover of book The Design and Implementation of the FreeBSD Operating System (by McKusick et al.)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Cover of book The Design and Implementation of the FreeBSD Operating System (by McKusick et al.)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
+
+## Camel Book
+**Programming Perl** book by Larry Wall (creator of Perl programming languages) & Randal Schwartz is popularly referred to as [**Camel Book**](http://www.catb.org/jargon/html/C/Camel-Book.html).
+
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-7.jpg" alt="Cover of book Programming Perl (by Larry Wall & Randal Schwartz)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Cover of book Programming Perl (by Larry Wall & Randal Schwartz)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
+
 ## Aluminum Book
 
 Guy L. Steele Jr.'s **Common LISP: The Language** book is known as [**Aluminum Book**](http://www.catb.org/jargon/html/A/Aluminum-Book.html).
 
-## Camel Book
-**Programming Perl** book by Larry Wall (creator of Perl programming languages) & Randal Schwartz is popularly referred to as [**Camel Book**](http://www.catb.org/jargon/html/C/Camel-Book.html).
+<div class="row">
+  <div class="hidden-sm col-md-3">
+  </div>
+  
+  <div class="col-sm-12 col-md-6">
+    <div class="thumbnail">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-8.png" alt="Cover of book Common LISP: The Language (by Guy L. Steele Jr)" width="50%" height="50%">
+      <div class="caption">
+        <p class="text-center">Cover of book Common LISP: The Language (by Guy L. Steele Jr)</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hidden-sm col-md-3">
+  </div>
+</div>
 
 ## Rainbow Series and Bible(s)
 
