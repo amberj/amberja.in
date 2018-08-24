@@ -11,9 +11,9 @@ Few weeks ago, someone asked me on a mailing list:
   
   <div class="col-sm-12 col-md-6">
     <div class="thumbnail">
-      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-1.jpg" alt="Cover of book Operating Systems (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)" width="50%" height="50%">
+      <img class="img-responsive center-block" src="/blog/images/dinOSaurs-1.jpg" alt="Cover of book Operating System Concepts (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)" width="50%" height="50%">
       <div class="caption">
-        <p class="text-center">Cover of book Operating Systems (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)</p>
+        <p class="text-center">Cover of book Operating System Concepts (by Abraham Silberschatz, Peter B. Galvin, Greg Gagne)</p>
       </div>
     </div>
   </div>
