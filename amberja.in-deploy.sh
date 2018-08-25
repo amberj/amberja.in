@@ -20,6 +20,3 @@ git pull
 MESSAGE="Running: 'make'" ; simple_blue_echo
 make
 
-# Generate sitemap using https://github.com/ttopholm/sitemap-generator
-sitemap-generator/sitemap_generator.sh -d amberja.in
-mv sitemap-generator/sitemap.xml sitemap-generator/sitemap.xml.gz .
